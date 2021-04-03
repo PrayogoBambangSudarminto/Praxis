@@ -1,0 +1,1764 @@
+PS C:\Users\HP> ls
+
+
+    Directory: C:\Users\HP
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         10/4/2020   3:05 PM                .anaconda
+d-----          4/5/2021   4:41 PM                .android
+d-----         10/4/2020   3:20 PM                .conda
+d-----         7/24/2020   8:11 PM                .config
+d-----         2/18/2021   7:14 AM                .ionic
+d-----          4/2/2021   1:03 AM                .ipynb_checkpoints
+d-----         10/3/2020   8:29 PM                .ipython
+d-----         10/4/2020  10:36 AM                .jupyter
+d-----         10/3/2020   8:32 PM                .matplotlib
+d-----         4/28/2020   5:51 AM                .nbi
+d-----         4/25/2020  11:16 AM                .oracle_jre_usage
+d-----        12/21/2019  12:02 AM                .qgis2
+d-----        10/30/2020   2:11 PM                .spss
+d-----        12/23/2020   4:34 PM                .ssh
+d-----         3/23/2020   6:47 PM                .VirtualBox
+d-----         4/19/2020   8:57 PM                .vscode
+d-r---         3/13/2021   4:49 AM                3D Objects
+d-----        10/14/2020   7:29 PM                Anaconda3
+d-----        11/18/2019   1:26 AM                Cisco Packet Tracer 5.3.1
+d-----        11/17/2019   7:20 PM                Cisco Packet Tracer 7.2.2
+d-r---         3/13/2021   4:49 AM                Contacts
+d-r---        12/30/2019  10:45 AM                Creative Cloud Files
+d-r---         3/24/2021  11:04 AM                Desktop
+d-r---          4/2/2021   1:18 AM                Documents
+d-r---          4/5/2021   8:51 PM                Downloads
+d-r---         3/13/2021   4:49 AM                Favorites
+d-----        12/19/2020  12:07 PM                greenfoot
+d-----         1/26/2020  10:24 PM                Justinmind
+d-----        12/19/2020  12:04 PM                KelasA
+d-r---         3/13/2021   4:49 AM                Links
+d-r---         3/13/2021   4:49 AM                Music
+dar--l          4/2/2021  12:57 AM                OneDrive
+d-r---         3/27/2021   1:23 PM                Pictures
+d-----         7/26/2020  11:36 PM                projekUAS
+d-r---         3/13/2021   4:49 AM                Saved Games
+d-r---         3/13/2021   4:49 AM                Searches
+d-----        12/20/2020   9:15 PM                sppku
+d-r---         3/13/2021   4:49 AM                Videos
+d-----         3/23/2020   6:14 PM                VirtualBox VMs
+-a----        12/17/2020  10:08 AM             57 .angular-config.json
+-a----          4/5/2021   9:25 PM           2175 .bash_history
+-a----         10/4/2020   3:06 PM             43 .condarc
+-a----        12/23/2020   4:58 PM             86 .gitconfig
+-a----         3/19/2021   1:34 PM            934 .gitignore
+-a----        12/23/2020   1:21 PM              4 .node_repl_history
+-a----        10/16/2020   4:04 PM         432761 Association_Rule_Mining_1800016055.ipynb
+-a----         10/4/2020   3:00 PM          54076 Data_preprocessing_1800016024.ipynb
+-a----         10/4/2020   3:20 PM         877523 Data_Processing_1800016055.ipynb
+-a----          4/2/2021   1:03 AM           7635 D_1800016052_LAA TANIA FISABILLAH.ipynb
+-a----         11/8/2020  11:23 PM         137069 EvaluasiCluster_1800016024-A.ipynb
+-a----        10/27/2020   8:40 PM          31922 FuzzyC-Mean_1800016024.ipynb
+-a----        12/20/2020  10:54 PM          31368 Naive Bayes-1800016024.ipynb
+-a----         7/27/2020  11:31 PM        1785071 Picture.pdf
+-a----        10/16/2020   4:08 PM         432761 Praktikum_Association_Rule_Mining_1800016055.ipynb
+-a----         10/4/2020  10:54 AM            555 Untitled.ipynb
+-a----         10/4/2020   1:14 PM            555 Untitled1.ipynb
+-a----         1/21/2021   1:57 PM          43616 Untitled10.ipynb
+-a----         1/21/2021   1:39 PM           3179 Untitled11.ipynb
+-a----         1/21/2021   2:53 PM          83235 Untitled12.ipynb
+-a----         1/21/2021   3:03 PM          38611 Untitled13.ipynb
+-a----         10/4/2020   3:20 PM           7374 Untitled2.ipynb
+-a----        10/15/2020   1:37 PM            555 Untitled3.ipynb
+-a----        10/16/2020   3:32 PM          15930 Untitled4.ipynb
+-a----        10/16/2020   3:05 PM          41961 Untitled5.ipynb
+-a----        10/27/2020   8:21 PM           3182 Untitled6.ipynb
+-a----         11/7/2020   2:06 PM           1846 Untitled7.ipynb
+-a----         11/8/2020  11:22 PM           5832 Untitled8.ipynb
+-a----          1/6/2021   8:19 PM          46302 Untitled9.ipynb
+-a----        11/12/2020  11:32 AM          17590 UTS.ipynb
+-a----        11/12/2020  11:58 AM        3458762 UTSDM2020.ipynb
+-a----          7/6/2020   3:12 PM      163406032 xampp-windows-x64-7.4.7-0-VC15-installer.exe
+
+
+PS C:\Users\HP> cd destop
+cd : Cannot find path 'C:\Users\HP\destop' because it does not exist.
+At line:1 char:1
++ cd destop
++ ~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\HP\destop:String) [Set-Location], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetLocationCommand
+
+PS C:\Users\HP> cd Document
+cd : Cannot find path 'C:\Users\HP\Document' because it does not exist.
+At line:1 char:1
++ cd Document
++ ~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\HP\Document:String) [Set-Location], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.SetLocationCommand
+
+PS C:\Users\HP> cd Downloads
+PS C:\Users\HP\Downloads> clean
+clean : The term 'clean' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ clean
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (clean:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\HP\Downloads> date
+
+Monday, April 5, 2021 9:57:16 PM
+
+
+PS C:\Users\HP\Downloads> dir
+
+
+    Directory: C:\Users\HP\Downloads
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        11/18/2019   1:58 PM                bd1_modul6_a-20191118T065623Z-001
+d-----         12/9/2019   7:45 PM                bell-notification-background
+d-----          1/8/2021   7:38 PM                Cetak Transkrip Nilai - Portal UAD_files
+d-----         6/15/2020   2:57 PM                chartmasukindata
+d-----         3/19/2021  12:45 PM                latihan minggu 2
+d-----        12/23/2020   3:05 PM                MyAdmin
+d-----         3/25/2021  11:48 PM                praxis-academy-master
+d-----         7/28/2020  12:47 PM                SBOUAS
+d-----          2/5/2021   4:20 PM                Telegram Desktop
+d-----         3/19/2021   1:34 PM                tugas minggu 2
+d-----         4/25/2020   8:30 AM                uts
+d-----         3/23/2020   4:01 PM                VirtualBox-6.1.4-136177-Win
+-a----         1/23/2021   7:10 PM         239965 #2-UAS GASAL RPL 2020.pdf
+-a----          2/3/2021   9:32 PM          43085 #revisi Merancang Kebutuhan Fungsional(1).pdf
+-a----        11/15/2020   3:29 AM          11622 #revisi Merancang Kebutuhan Fungsional.docx
+-a----        11/15/2020   3:28 AM          43085 #revisi Merancang Kebutuhan Fungsional.pdf
+-a----        11/15/2020  12:07 AM           7542 #revisi Tugas 4 - USER STORY revisi.docx
+-a----        11/15/2020  12:07 AM          57026 #revisi Tugas 4 - USER STORY revisi.pdf
+-a----        10/25/2013   3:34 PM         100831 ${distro.zipfilename.extensions}.nbm
+-a----         1/23/2021  11:21 PM          41357 0000365295.jpg
+-a----        12/19/2020  11:19 PM        2541144 02-SQL dump.pptx
+-a----        11/22/2019   7:11 PM        9845606 06-1800016087-OSKHA RAFIDA MUADZ.docx
+-a----          4/9/2019   6:32 PM      117873104 1.WPSOffice_11.2.0.8310_Free_beta.exe
+-a----         7/23/2020   9:06 AM          90171 1151-2402-2-PB.docx
+-a----         7/23/2020   9:04 AM        1145932 1151-2402-2-PB.pdf
+-a----        10/21/2020   9:28 PM          69079 118742_kampung-kauman--yogyakarta_665_374.jpg
+-a----         12/2/2019   5:37 PM         738372 124-13-605-1-10-20170904.pdf
+-a----          7/7/2020   5:34 PM       69337529 1383067774_iReport-5.5.0-plugin.zip
+-a----         7/23/2020  10:45 AM          49209 160002970_Analisis_Proses_Bisnis_C_20200719111820.docx
+-a----         7/22/2020   7:57 AM         320207 160002970_Analisis_Proses_Bisnis_C_20200719111820.pdf
+-a----         7/25/2020   7:31 AM         802589 160002977_Pemrograman_Visual_A_20200719071611.pdf
+-a----         7/27/2020   8:21 AM          40861 160002980_Sekuritas_Komputer_A_20200719163153.docx
+-a----         7/27/2020   8:18 AM         237160 160002980_Sekuritas_Komputer_A_20200719163153.pdf
+-a----          8/1/2020  10:17 AM         592000 160002988_Struktur_Data_B_20200719080804.pdf
+-a----         7/23/2020   7:17 AM          73202 160002991_Teknologi_Web_Lanjut_A_20200719184524.pdf
+-a----         7/26/2020   3:51 PM          44834 160003032_Islam_Interdisipliner_A_20200719072907.docx
+-a----         7/26/2020   3:32 PM         440768 160003032_Islam_Interdisipliner_A_20200719072907.pdf
+-a----         7/23/2020   2:03 PM         326881 160003075_Basis_Data_Lanjut_D_20200719072612.docx
+-a----         7/23/2020   6:27 AM         369168 160003075_Basis_Data_Lanjut_D_20200719072612.pdf
+-a----        11/23/2019  12:44 PM         213188 1602204110960002_kartuAkun (1).pdf
+-a----        11/23/2019  12:39 PM         213188 1602204110960002_kartuAkun.pdf
+-a----        11/23/2019  12:37 PM         260398 1602204110960002_kartuDaftar.pdf
+-a----         8/15/2020   3:16 PM          10737 1700016004-Holan Rahmatullah S N-A-11.docx
+-a----         1/27/2021  10:20 AM       16899807 1800016024 Panji Atmojo.pdf
+-a----          4/5/2021   7:10 PM         373797 1800016042_ROHMATUL MUNGFARIDAH(1).docx
+-a----         3/29/2021   6:10 PM         314140 1800016042_ROHMATUL MUNGFARIDAH.docx
+-a----         8/15/2020   3:17 PM          14622 1800016052-Laa Tania Fisabillah-Tugas11.docx
+-a----         8/10/2020  11:44 AM          17087 1800016052-Laa Tania Fisabillah-Tugas6.docx
+-a----         7/28/2020   5:17 PM          17189 1800016052_Laa Tania Fisabillah.docx
+-a----         12/1/2019   9:04 PM        1888811 1800016066-PRAK08.docx
+-a----         12/9/2019  12:19 PM        3293647 1800016066-PRAK09 (1).docx
+-a----        12/10/2019   7:09 PM        3229615 1800016066-PRAK09 (2).docx
+-a----         12/8/2019   9:00 PM          10812 1800016066-PRAK09.docx
+-a----        11/18/2020   8:31 PM          20299 1800016147_Muhammad Imam Akbar_A.docx
+-a----         1/20/2021   7:35 AM         297710 18081031_Agesa Vebiwana_13F2.pdf
+-a----         1/18/2021   3:58 PM         263239 18081031_Agesa Vebiwana_UAS-compressed.pdf
+-a----         1/18/2021   3:54 PM       10517278 18081031_Agesa Vebiwana_UAS.pdf
+-a----          4/2/2020   1:18 PM        1026753 194-37-300-1-10-20180521.pdf
+-a----         1/27/2021   9:49 AM         300509 2000016001 - Apridan Husaeni Muharam.pdf
+-a----         7/23/2020  10:55 AM       18320844 2018_Book_FundamentalsOfBusinessProcessM.pdf
+-a----         1/23/2021  11:17 PM          45778 20200506223004_5eb2d7fcd5bee.jpg
+-a----         1/18/2021   3:39 PM        3474288 20210118_153642.jpg
+-a----         1/18/2021   3:39 PM        3221661 20210118_153709.jpg
+-a----         1/27/2021  10:13 AM        3061939 20210127_094906.jpg
+-a----         1/27/2021  10:13 AM        3095547 20210127_100842.jpg
+-a----         1/27/2021  10:19 AM        3032892 20210127_100852.jpg
+-a----         1/27/2021  10:13 AM        3061202 20210127_100927.jpg
+-a----         1/27/2021  10:12 AM        3056220 20210127_100934.jpg
+-a----         1/31/2021   8:53 AM          18007 20210128_185046_0000.png
+-a----          4/2/2021   1:14 AM        2564257 20210314_132202_resized.jpg
+-a----         3/25/2021   1:16 AM        2644051 20210321_061816.jpg
+-a----        12/18/2019  11:29 AM         839986 44830-469-93841-1-10-20181217 (1).pdf
+-a----        12/18/2019  11:09 AM         839986 44830-469-93841-1-10-20181217.pdf
+-a----         1/23/2021  11:23 PM          42444 5-fakta-konser-bts-yang-akan-digelar-di-stadion-wembley-tiket-sold-hi
+                                                  ngga-jadwal-konser-ditambah.jpg
+-a----         1/23/2021  11:23 PM         206812 5558f5a6-b691-41ad-a7e2-bea7f2d09ba9.jpg
+-a----         12/7/2020   7:29 AM           1203 5desember.rar
+-a----         1/23/2021  11:20 PM          74742 7273_kuis-berhadiah-tiket-konser-bruno-mars-live-in-jakarta-2014.jpg
+-a----        10/21/2020   9:59 PM         808957 81fb9d158be8b93d8d763badb5230967794c35ab.jpg
+-a----         4/15/2020   2:49 PM          22529 9917-24162-2-SP.xlsx
+-a----        10/10/2020   2:13 PM        1210367 A-1800016013-Okky Buddi Pratama-3.pdf
+-a----          4/9/2020  11:57 AM         568811 ABSTRACT CLASS.docx
+-a----          8/6/2020   3:39 PM      841242247 adobe primiere 2015.rar
+-a----        10/24/2019   8:37 AM       11967352 aimp_4.60.2156.exe
+-a----         1/21/2021   1:31 PM          79054 Airport noise monitoring data set - graphic.xlsx
+-a----        11/23/2019  12:41 AM        3920032 Akreditasi_reduce.docx
+-a----        11/23/2019  12:38 AM         328206 Akreditasi_reduce.pdf
+-a----         1/20/2021   7:50 AM          18300 analisis.docx
+-a----          4/5/2021   4:09 PM      939674592 android-studio-ide-201.7199119-windows.exe
+-a----         7/17/2020   8:10 PM        4056520 Aplikasi-CRUD-Lanjutan-Form-Login-dengan-CI--master.zip
+-a----         7/28/2020   5:49 PM       16339216 Aplikasi-Login-Form-CRUD-dengan-Angular-UAS-TEKWEB--master.zip
+-a----          6/2/2020   4:38 PM            926 Apps-Java-icon.png
+-a----          1/6/2021   9:46 PM          95423 arabica.jpg
+-a----         4/22/2020  10:09 AM         731530 Arti.pdf
+-a----          4/5/2021  12:44 PM         531698 ASJ-VPN.pptx
+-a----         4/21/2020   8:43 PM          29187 avatar.png
+-a----         4/25/2020  11:19 AM        5665950 bandicam 2020-04-25 11-15-00-143.mp4
+-a----         7/25/2020   2:41 PM           8802 basisdatamahasiswa.sql
+-a----        11/29/2019   3:24 PM       36025614 BATNAS_100E-105E_05S-000_EGM_v1.1 (1).tif
+-a----        11/29/2019   2:41 PM       36025614 BATNAS_100E-105E_05S-000_EGM_v1.1.tif
+-a----        11/18/2019   7:12 PM           6453 bd1_modul6_a.sql
+-a----         12/9/2019   7:45 PM        3860268 bell-notification-background.zip
+-a----         9/12/2020   9:37 PM        2029741 belum kelompok RPL BK 1 Lembar Revisi (1) (1).docx
+-a----         1/18/2021  12:17 AM        1705035 bendera.jpg
+-a----         1/17/2021  11:57 PM        2739616 bendera.png
+-a----         4/13/2020   1:09 PM          38722 bola
+-a----         4/13/2020   1:32 PM           1593 bola sepak.jpg
+-a----         4/13/2020   1:10 PM          38722 bola.jpg
+-a----         4/13/2020   1:08 PM          38722 bola.webp
+-a----         4/13/2020   1:11 PM         321518 bola1.jpg
+-a----         4/13/2020   1:11 PM          81424 bola2.jpg
+-a----         4/13/2020   1:14 PM          38722 Bolla.jpg
+-a----          1/6/2021  10:11 PM          57470 brownies.jpg
+-a----          1/6/2021   9:47 PM          64755 caffe latte.jpg
+-a----          8/6/2020   3:15 PM           9836 Cara instal Download Adobe Premiere Pro CC 2015.pdf
+-a----          7/9/2020   8:31 AM          79313 Cara Membuat MultiThread di Java.docx
+-a----          8/6/2020   5:39 PM        4954834 Cartoon - On & On (Official Music Video).mp3
+-a----          8/6/2020   5:39 PM        5115330 Cartoon - Why We Lose (feat. Coleman Trapp) [NCS Release].mp3
+-a----         4/27/2020  12:26 PM       15722626 CEH Module 05.pdf
+-a----         7/27/2020   9:25 AM       18104282 CEH Module 12.pdf
+-a----         3/16/2020   8:02 PM       10871248 CEH v10 Module 02 - Footprinting & Reconnaissance -
+                                                  www.ethicalhackx.com .pdf
+-a----          1/8/2021   7:38 PM          24239 Cetak Transkrip Nilai - Portal UAD.html
+-a----        12/19/2020   1:51 PM          26152 Challenge Datamining.xlsx
+-a----        12/27/2020   9:09 PM        6653342 Challenge-Datamaining_1800016024.ipynb
+-a----          8/1/2020   2:44 PM          41804 chartmasukindata-1.rar
+-a----         1/29/2021   4:58 AM         315089 CHIN CHIN DWINANTI_1700001061_LAPORAN KEWIRAUSAHAAN.docx
+-a----          6/1/2020   4:05 PM        1295576 ChromeSetup(1).exe
+-a----        10/30/2020  10:17 AM        1317080 ChromeSetup(2).exe
+-a----         3/23/2020   4:22 PM        1288408 ChromeSetup.exe
+-a----        10/24/2019   8:31 AM       59897600 ChromeStandaloneSetup64.exe
+-a----         7/15/2020   8:35 PM         565986 CI-CRUD (1).pdf
+-a----         7/15/2020   8:35 PM         565986 CI-CRUD.pdf
+-a----         7/11/2020   9:57 AM         969450 ci4App(1).rar
+-a----         7/10/2020   8:34 PM         969450 ci4App.rar
+-a----         12/6/2020   8:14 PM          18291 Classification_1800016024.ipynb
+-a----        12/19/2019  12:01 PM       11102265 cozastore.zip
+-a----         12/8/2019   9:06 PM        1892368 cpu-z-1-90.exe
+-a----          8/6/2020   3:15 PM         832342 Crack All Adobe CC 2015.rar
+-a----          1/6/2021   6:55 PM          33589 Cryotherapy.xlsx
+-a----         1/21/2021   3:12 PM        1780736 CTG.xls
+-a----         7/26/2020  10:53 PM         154675 curii-master.zip
+-a----         2/23/2021   2:42 AM         798653 CV GILANG MUBHARAK(1).png
+-a----         2/23/2021   2:40 AM        2049840 CV GILANG MUBHARAK.docx
+-a----         8/19/2020   8:15 AM          28467 DAKWAH_NABI_MUHAMMAD_SAW_KE_MADINAH.png
+-a----         1/21/2021   1:34 PM              0 dataR2.xlsx
+-a----        11/12/2020  11:04 AM          70392 datauts(1).csv
+-a----         6/29/2020   3:35 PM           5899 dbmhs.sql
+-a----         12/1/2019   5:09 PM          20634 debug.exe
+-a----        11/29/2019   2:47 PM       44463366 DEMNAS_1011-64_v1.0.tif
+-a----         12/9/2019   1:48 PM            728 Desktop - Shortcut.lnk
+-a----        11/15/2020   5:03 AM          70281 Diagram Use Case.jpg
+-a----          8/1/2020   1:44 PM         221899 ding dikoding.pdf
+-a----         7/27/2020  11:42 PM        4901848 Doc Jul 27 2020 23.39.pdf
+-a----         7/27/2020  11:44 PM        5578064 Doc Jul 27 2020 23.42.pdf
+-a----         12/1/2019   1:08 PM         239648 Doc1.docx
+-a----        11/17/2019  11:13 PM        2485960 Dokumen dari Panji_atmojo.docx
+-a----        10/17/2020  11:07 AM           4662 DongengYogya.html
+-a----         11/7/2020  10:47 AM       41876359 DOS.mp4
+-a----         12/1/2019   5:32 PM        1493703 DOSBox0.74-3-win32-installer (1).exe
+-a----         12/1/2019  12:50 PM        1493703 DOSBox0.74-3-win32-installer.exe
+-a----         12/1/2019   5:33 PM        1448809 DOSBox0.74-win32-installer.exe
+-a----          1/6/2021   7:54 PM        1821241 dota2Dataset.zip
+-a----         8/15/2016   1:15 PM        2485646 dota2Test.csv
+-a----         8/15/2016   1:15 PM       22372518 dota2Train.csv
+-a----         1/27/2021   7:52 PM         932707 Draft Soal UAS Sistem Terdistribusi 2020-2021.pdf
+-a----        11/19/2019   9:16 AM           7380 dreamhome.sql
+-a----          8/1/2020  12:46 PM       25840176 driver_booster_setup.exe
+-a----         1/24/2021   1:47 AM          24875 dyo haw.jpg
+-a----         3/27/2021   3:05 PM           1087 D_1800016052_Laa Tania Fisabillah.py
+-a----         3/27/2021   2:58 PM            554 D_1800016052_Laa Tania Fisabillah.rar
+-a----        12/13/2019  10:55 AM        4965918 essence.zip
+-a----         1/20/2021   7:53 AM          16597 Evaluasi.docx
+-a----        12/13/2019  11:01 AM       11316097 fashe-colorlib.zip
+-a----         4/25/2020  11:20 AM        1024240 filmora-idco_setup_full1901.exe
+-a----        10/24/2019   8:32 AM       51516392 Firefox Setup 70.0.exe
+-a----          7/9/2020   3:25 PM          10134 folderjson.rar
+-a----         7/11/2020   7:30 PM           1637 Formulir tanpa judul.csv.zip
+-a----          7/9/2020  10:35 PM         933006 framework-4.0.3.zip
+-a----          8/1/2020   3:06 PM          23362 freehep-graphicsio-svg-2.0.jar
+-a----         6/26/2020   1:53 PM          52498 FUNGSI HASH2.docx
+-a----        10/27/2020   8:36 PM          31922 Fuzzy C-Mean - 1800016024
+-a----         4/21/2020   9:37 PM          88214 gambar.jpg
+-a----         3/28/2020   4:41 PM       46669192 Git-2.26.0-64-bit.exe
+-a----          8/1/2020  11:51 AM        1564864 GLP_Installer_900207229_market.exe
+-a----        12/21/2019   8:39 PM        5788674 go green.rar
+-a----        10/24/2019   8:36 AM       26198624 GOMPLAYERGLOBALSETUP.exe
+-a----         3/15/2021  10:40 AM        7391632 GPU-Z.2.38.0.exe
+-a----        12/21/2019   8:36 PM        5621178 greenfair-html5-onepage-template-20191221T133400Z-001.zip
+-a----        12/19/2020  11:51 AM      238020814 Greenfoot-windows-361.msi
+-a----         12/1/2019   1:49 PM        7451648 GUI Turbo Assembler v3.0.1 (1).msi
+-a----         12/1/2019   1:24 PM        7451648 GUI Turbo Assembler v3.0.1.msi
+-a----          8/1/2020   3:06 PM          45024 hamcrest-core-1.3.jar
+-a----         4/15/2020   2:49 PM          15991 HASIL-PREDICTION-TEST-MAHASISWA-BARU-UNIVERSITAS-AHMAD-DAHLAN-2019.xl
+                                                  sx
+-a----        11/22/2019  11:12 PM        2572742 heppy.docx
+-a----        10/29/2020   8:46 PM      783214488 ibm-spss-statistics-base-22-0-es-en-br-fr-de-it-cn-jp-ru-pl-kr-win.ex
+                                                  e
+-a----         4/21/2020  12:53 PM          34280 icon.jpg
+-a----          6/2/2020   3:48 PM          34776 ig.png
+-a----        11/23/2019   1:01 AM         368315 ijazah dan akreditasi_reduce (1).pdf
+-a----        11/23/2019   1:00 AM        1007017 ijazah dan akreditasi_reduce.pdf
+-a----        12/20/2020  11:01 PM         596744 ikon.png
+-a----         4/13/2020   1:36 PM           1336 images.jpg
+-a----         1/17/2020   6:13 PM           9661 images.png
+-a----         3/23/2020   2:04 PM          92407 IMAM.docx
+-a----          7/5/2020   9:42 AM          23900 IMG-20200705-WA0007.jpg
+-a----          7/8/2020   5:20 PM        3015657 IMG_20191127_204802.jpg
+-a----        11/28/2019   9:19 PM        3713647 IMG_20191127_204813.jpg
+-a----         7/27/2020  11:30 PM        5101160 IMG_20200727_230342.jpg
+-a----         2/23/2021   1:54 AM         939565 IMG_2959-01-01-01.jpeg
+-a----          7/8/2020   5:31 PM        4993768 IMG_9041.JPG
+-a----         1/17/2020   6:10 PM           8153 index.jpg
+-a----          6/2/2020   4:41 PM           5852 index.png
+-a----         8/15/2020   3:16 PM          14344 Indriana Luqul Jannah_1800016066_Tugas 11_pertemuan 12.docx
+-a----         3/15/2021  12:30 AM       68746984 Install VALORANT.exe
+-a----        10/25/2013   3:34 PM       64263337 iReport-5.5.0.nbm
+-a----         1/15/2020  10:40 PM        1758828 JARKOM.docx
+-a----        12/14/2019  10:09 PM         764202 jarkom10.docx
+-a----        10/25/2013   3:34 PM        2104798 jasperreports-components-plugin-5.5.0.nbm
+-a----        10/25/2013   3:34 PM        2921831 jasperserver-plugin-5.5.0.nbm
+-a----          8/1/2020   3:06 PM         330246 jcommon-1.0.23.jar
+-a----          8/1/2020   3:07 PM        1565065 jfreechart-1.0.19.jar
+-a----          8/1/2020   3:06 PM          12377 jfreechart-1.0.9-experimental.jar
+-a----          8/1/2020   3:06 PM          73010 jfreechart-swt-1.0.9.jar
+-a----          8/1/2020   3:07 PM          50780 jfreesvg-2.1.jar
+-a----          7/6/2020   3:27 PM          32668 Jointabel.docx
+-a----          7/6/2020   2:13 PM       15382938 JoinTabel.mp4
+-a----          6/2/2020   2:00 PM         105048 jongyeon.jpg
+-a----          8/1/2020   3:06 PM          16046 json-simple-1.1.jar
+-a----          7/2/2020   1:17 PM        1797361 JSON01.pdf
+-a----          8/1/2020   3:06 PM         245039 junit-4.11.jar
+-a----          6/4/2020   2:29 PM         134406 jwban heheee.jpg
+-a----        10/21/2020   9:27 PM          93243 kauman-Jogjabike-2-scaled.jpg
+-a----        10/21/2020  10:34 PM         190623 kauman.jpg
+-a----         1/20/2021   7:20 AM          62270 kelompok.docx
+-a----         1/31/2021   9:15 AM         153732 kkn reguler(1).png
+-a----         1/31/2021   9:18 AM         150006 kkn reguler(2).png
+-a----         1/31/2021   9:12 AM         153569 kkn reguler.png
+-a----         6/19/2020   8:22 AM         312985 KODE AGREGASI.pdf
+-a----          7/3/2020   8:59 AM         754447 KodeGearMuter.pdf
+-a----         7/10/2020   1:42 PM         465936 KodeJsonHtmlJava.pdf
+-a----         7/28/2020  10:33 AM         483466 KodeSoalSBO2020.pdf
+-a----         6/15/2020   2:15 PM         378610 KodetambahdataChart.pdf
+-a----         6/26/2020   1:53 PM        1336504 KodingHash2.pdf
+-a----         1/27/2021   9:08 AM          10008 KRIPTOGRAFI.xlsx
+-a----         1/15/2020  10:39 PM         460206 kriptografinj.docx
+-a----        11/23/2019  12:29 AM         151411 ktp 1.jpg
+-a----         1/29/2021   4:23 AM         111084 kuliah kerja nyata(1).png
+-a----         1/31/2021   8:57 AM         110579 kuliah kerja nyata(2).png
+-a----         1/29/2021   4:22 AM         169570 kuliah kerja nyata.pdf
+-a----         1/29/2021   4:19 AM         111084 kuliah kerja nyata.png
+-a----         12/8/2019  11:51 PM         497288 L10_Network Security.pptx
+-a----         1/23/2021  11:22 PM          21477 lady-gaga-c.jpg
+-a----          8/6/2020   6:16 PM        3925307 LAGUF1.MOBI - twenty one pilots - Ride.mp3
+-a----        11/28/2019  10:06 PM        4467971 LAPORAN 07.docx
+-a----         2/26/2021  12:51 PM        1989354 LAPORAN PRAKTIKUM 6.docx
+-a----         12/6/2019   9:50 PM        2633445 LAPORAN PRAKTIKUM 9.docx
+-a----         1/16/2021  12:11 AM         475105 Lembar Formulir Dispensasi Pembayaran UAS Gasal 2020-2021.pdf
+-a----         1/17/2020   6:16 PM         959643 Liverpool-FC-HD-Logo.png
+-a----         1/15/2020  10:42 PM          24292 M3OG 2020.docx
+-a----         9/14/2020  11:42 AM         353676 Macam-macam kepribadian manusia.pptx
+-a----         7/11/2020   9:50 AM         277009 MAKALAH islam interdispliner.docx
+-a----         1/27/2021  10:00 PM         259331 MAKALAH SQL DUMP belum jadi.docx
+-a----        12/15/2020   7:47 PM          63469 MAKALAH SQL DUMP.docx
+-a----        10/21/2020   8:54 PM         112603 Masjib-Gedhe-Kauman-Yogyakarta.jpg
+-a----        10/21/2020   8:23 PM         116343 masjid kauman.jpg
+-a----        10/21/2020  10:43 PM          72899 Masjid-Kauman-Jogja.jpg
+-a----          7/5/2020   8:54 AM          28513 Materi Islam Interdisipliner.docx
+-a----        10/21/2020   8:11 PM         194276 materi poster irma.pdf
+-a----          4/2/2020   8:21 AM          81872 Materi3.docx
+-a----         7/16/2020   8:21 AM         562884 Membuat dua thread sorting.pdf
+-a----         7/10/2020   8:17 AM          72531 Membuat thread tentang sorting.docx
+-a----         6/16/2020   1:23 PM         962472 MENAMPILKAN TABEL BASIS DATA.pdf
+-a----         6/26/2020   8:56 AM        1054063 MENGGAMBAR ORNAMEN2.pdf
+-a----         9/13/2020   1:09 PM         823877 menjadi pribadi yang mandiri-converted.pptx
+-a----         9/13/2020  12:33 PM         116495 menjadi pribadi yang mandiri.pdf
+-a----         9/13/2020  12:36 PM         626617 menjadi pribadi yang mandiri.pptx
+-a----         6/29/2020   1:14 PM         130819 MenuBasisData.docx
+-a----        11/15/2020   3:52 AM           9588 Merancang Kebutuhan Non Fungsional.docx
+-a----        11/15/2020   3:29 AM         190191 Merancang Kebutuhan Non Fungsional.pdf
+-a----         1/20/2021   8:34 AM          81914 Modul Praktikum Pelatihan Psikologis 13F4.docx
+-a----         10/5/2020  11:39 AM         187603 modul1.pdf
+-a----         7/27/2020   8:27 AM        6823297 Module-Firewalldkk.pdf
+-a----        10/21/2020  10:03 PM         123020 Monumen-Kauman-Pakualaman-Di-Depan-Bioskop-Permata-Yogyakarta.jpg
+-a----          7/9/2020   2:25 PM           3709 MultiThread.rar
+-a----         3/19/2021   1:29 PM          32042 NetBeansProjects.rar
+-a----         1/24/2021  12:24 AM         107798 noah.jpg
+-a----         3/18/2020  11:00 AM       19673088 node-v12.16.1-x64.msi
+-a----         4/13/2020  10:30 AM       19763200 node-v12.16.2-x64.msi
+-a----         3/18/2020  11:02 AM       29904896 node-v13.11.0-x64.msi
+-a----        12/21/2019   9:01 PM        3709392 npp.7.8.2.Installer.exe
+-a----         1/27/2021   8:26 AM         214817 OK SoalUAS_PTI2021Suprihatin.docx.pdf
+-a----         1/21/2021  12:22 PM         734815 OK UAS Data MIning Sistem Informasi 2021.pdf
+-a----          8/6/2020   4:25 PM       38381790 Olive-1e3cf53-Windows-x86_64.exe
+-a----         3/27/2020   8:09 AM         165183 OOP101_2020 (1).docx
+-a----         3/27/2020   8:08 AM         165183 OOP101_2020.docx
+-a----          8/1/2020   3:06 PM         452706 orsoncharts-1.7.jar
+-a----          8/1/2020   3:06 PM          70185 orsonpdf-1.9.jar
+-a----        11/22/2019   2:47 PM         910304 osgeo4w-setup-x86_64.exe
+-a----        11/29/2019   9:34 PM        9000000 output.tif
+-a----        11/29/2019   9:34 PM            502 output.tif.ers
+-a----         12/9/2019  12:06 AM          51502 p9 (7).pkt
+-a----         12/8/2019  10:36 PM        4011467 p9.docx
+-a----        12/14/2019   7:07 PM          56381 p9.pkt
+-a----          1/6/2021  10:09 PM         234524 pancake.jpg
+-a----         7/14/2020   1:14 PM         529803 PanggilReport.pdf
+-a----          8/8/2020  12:11 PM          18159 Panji Atmojo - 1800016024 - Tugas1.docx
+-a----          8/1/2020  10:39 AM           1987 Pasien.json
+-a----         7/15/2020   9:55 PM         129463 PB-UTS 2020.png
+-a----         6/16/2020   3:10 PM           3187 Pemvis2.rar
+-a----        11/22/2019   3:47 PM           8942 PERTEMUAN 6.zip
+-a----        11/26/2019   9:24 PM       25333585 PERTEMUAN 7.rar
+-a----          1/6/2021  10:08 PM          67764 pisang goreng.jpg
+-a----        10/21/2020  10:00 PM          15195 place-2012-12-27-3-9184b5bfdb05fb84d332a3d57c44c5eb.jpg
+-a----        11/29/2019  10:40 PM        2685704 PRAK6-1800016024.docx
+-a----        11/19/2019   9:18 PM        1695889 PRAK6-1800016066.docx
+-a----        11/24/2019   7:04 PM        2425839 PRAK7_1800016066.docx
+-a----        12/10/2019   7:10 PM        1752877 PRAK9_1800016066.docx
+-a----        11/24/2019   4:57 PM         355597 PRAKTIKUM07.docx
+-a----         6/19/2020   1:13 PM         713813 PraktikumPencarianBiner ArrayObject.pdf
+-a----        11/25/2019   6:13 PM           4422 praktikum_db1.sql
+-a----         3/23/2021   3:56 PM          43821 Praxis-magang-maret.pdf
+-a----        11/17/2019   7:38 PM          44378 project.pkt
+-a----         1/20/2021   7:40 AM         100540 PROPOSAL PENELITIAN.docx
+-a----         1/20/2021   5:56 AM         297710 PROPOSAL PENELITIAN.pdf
+-a----        11/18/2020   8:17 AM         216634 pti2020.docx
+-a----        11/18/2020   8:13 AM        1009268 pti2020.pdf
+-a----          1/6/2021  10:09 PM          61456 pudding.jpg
+-a----         4/13/2020   1:36 PM           2524 puma.jpg
+-a----         3/12/2021   5:41 PM          70170 putusan_17_pdt.g_2018_pn_yyk_20210312.pdf
+-a----         3/12/2021   5:33 PM          68057 putusan_17_pdt.p_2021_pn_yyk_20210312.pdf
+-a----         10/3/2020   2:25 PM       26777232 python-3.8.5.exe
+-a----        11/22/2019   3:34 PM      411187880 QGIS-OSGeo4W-2.18.28-1-Setup-x86_64.exe
+-a----         1/30/2021  11:06 PM           3151 QR code IG KKN.png
+-a----         3/15/2021  11:29 AM      464254392 radeon-software-adrenalin-2020-20.11.2-win10-64bit-nov18.exe
+-a----         1/21/2021   1:30 PM          14783 readMe.docx
+-a----          1/6/2021   9:48 PM          48837 red velvet.jpg
+-a----        11/30/2020   9:20 AM          40161 Regresi-1800016024.ipynb
+-a----         6/19/2020   8:08 AM         618214 RELASI AGREGASI.pdf
+-a----         6/18/2020   8:23 AM         888929 RELASIAPA.pdf
+-a----          7/2/2020   8:02 AM        1299776 RELASIKomposisi.pdf
+-a----        12/16/2019   4:25 PM          70991 Responsi-Kls-A-1800016057 (1).pkt
+-a----        12/16/2019   4:25 PM          70991 Responsi-Kls-A-1800016057 (2).pkt
+-a----        12/16/2019   4:25 PM          70991 Responsi-Kls-A-1800016057.pkt
+-a----        12/16/2019   4:43 PM          75415 Responsi-Kls-A-1800016066.pkt
+-a----        12/16/2019   4:53 PM          81794 Responsi.pkt
+-a----         3/19/2020  12:51 PM         405611 Resum APB bab1.docx
+-a----        11/14/2020  10:27 PM          11288 Revisi BPNM.docx
+-a----        11/14/2020  10:14 PM         203135 Revisi BPNM.pdf
+-a----        11/15/2020   1:11 AM          59418 Revisi Usecase Diagram(1).PNG
+-a----        11/15/2020   4:43 AM          59418 Revisi Usecase Diagram(2).PNG
+-a----        11/14/2020  11:02 PM          59418 Revisi Usecase Diagram.PNG
+-a----          1/6/2021   9:47 PM         136927 robusta.jpg
+-a----         7/28/2020   1:42 PM          18139 SBOUAS.rar
+-a----         7/28/2020   1:42 PM          20142 SBOUAS.zip
+-a----         12/8/2019  10:03 PM         177616 Screenshot_20191208-215130.png
+-a----         12/8/2019  10:04 PM         135591 Screenshot_20191208-215138.png
+-a----         1/27/2021   4:38 PM         829873 Screenshot_20210106-223005_Chrome(1).jpg
+-a----          1/6/2021  10:33 PM         829873 Screenshot_20210106-223005_Chrome.jpg
+-a----         1/27/2021   4:38 PM         231575 Screenshot_20210106-223011_Chrome(1).jpg
+-a----          1/6/2021  10:32 PM         231575 Screenshot_20210106-223011_Chrome.jpg
+-a----         1/27/2021   4:38 PM         488564 Screenshot_20210106-223019_Chrome(1).jpg
+-a----          1/6/2021  10:32 PM         488564 Screenshot_20210106-223019_Chrome.jpg
+-a----         1/27/2021   4:38 PM         930858 Screenshot_20210106-223026_Chrome(1).jpg
+-a----          1/6/2021  10:32 PM         930858 Screenshot_20210106-223026_Chrome.jpg
+-a----         1/21/2021   1:33 PM         233842 SEDM-Manual-Data1.csv
+-a----        11/24/2019   8:04 PM         293396 Sertifikat-Akreditasi-PGSD (wecompress.com).docx
+-a----        11/24/2019   7:54 PM        3058291 Sertifikat-Akreditasi-PGSD.docx
+-a----        11/24/2019   7:52 PM        1895203 Sertifikat-Akreditasi-PGSD.pdf
+-a----          8/1/2020   3:06 PM          76877 servlet.jar
+-a----         3/19/2021   9:07 PM         257865 Sesi 2 - Konsep Desain Jaringan(1).ppsx
+-a----         3/19/2021   9:05 PM         257865 Sesi 2 - Konsep Desain Jaringan.ppsx
+-a----         3/27/2021   5:35 PM          86864 Sesi 2 - NetAdmin.ppsx
+-a----         3/26/2021   2:17 PM         371220 Sesi 3 (2b) - Refresh Jaringan Konektivitas.pptx
+-a----         2/18/2021   9:17 AM         956829 sikantin-master (1).zip
+-a----        12/17/2020  10:35 AM         798948 sikantin-master.zip
+-a----        12/13/2019  10:18 AM        7112866 skytheme-ecommerce-html5-template.zip
+-a----         1/24/2021   1:23 AM          35433 slank.jpg
+-a----         1/17/2020   6:10 PM           8153 smi.jpg
+-a----         8/19/2020   8:06 AM         359936 SOAL UAS ANTARA ILMU DAKWAH 2019-2020.doc
+-a----        11/17/2020   8:22 PM         140588 SOAL UTS E BISNIS GASAL TA 20-21 Kelas AB - ANS .pdf
+-a----        11/16/2020   7:49 PM         130572 soal UTS Tata Kelola TI Gasal 20-21.pdf
+-a----         1/21/2021   1:35 PM          52798 Software Architecural Styles Dataset.csv
+-a----         1/24/2021  12:46 PM         160727 Software Requirement, Weiger.pdf
+-a----         1/21/2021  12:28 PM         702942 spambase.data
+-a----         8/17/1999  11:48 AM           6429 spambase.DOCUMENTATION
+-a----         1/21/2021  12:27 PM         125447 spambase.zip
+-a----          6/2/2020   2:09 PM         892232 SpotifySetup.exe
+-a----         6/29/2020   3:48 PM        9531304 SQLyog-13.1.6-0.x64Trial.exe
+-a----          7/1/2020  11:34 AM        1573568 SteamSetup.exe
+-a----        12/13/2019  10:26 AM       10931184 Sublime Text Build 3211 x64 Setup.exe
+-a----         1/27/2021   9:12 AM         126625 Suprihatin2000016555(1).pdf
+-a----         1/27/2021   9:07 AM         126625 Suprihatin2000016555.pdf
+-a----        11/23/2019  12:28 AM         166317 SURAT LAMARAN-1_compressed.pdf
+-a----        11/23/2019  12:30 AM         154503 SURAT PERNYATAAN.pdf
+-a----          6/4/2020  10:03 AM         294936 tema.jpg
+-a----         3/19/2020   1:35 PM         403413 terjemahan apb1.docx
+-a----          4/7/2020  10:02 AM       56304440 TinyTakeSetup_v_5_2_16.exe
+-a----        11/23/2019  12:38 AM        2227701 transkip 2_20191104_0001_page-0002.jpg
+-a----        11/23/2019  12:29 AM         266616 TRANSKIP NILAI FATIMAH_3 (1).pdf
+-a----        11/23/2019  12:28 AM         266616 TRANSKIP NILAI FATIMAH_3.pdf
+-a----        11/25/2019  10:13 PM         507682 transkip nilai wiwik .pdf
+-a----         4/19/2020  11:10 PM       21999384 tsetup.2.0.1.exe
+-a----         8/17/2020   9:09 AM          64285 TUGAS ASESMEN KEGIATAN DAKWAH.docx
+-a----         3/27/2020   2:38 PM          14898 tugas pak prih haha.zip
+-a----          3/9/2020   8:38 PM         125535 Tugas01.1800016066.docx
+-a----         12/1/2019   2:30 PM         537070 Tugas10-1800016066 (1).docx
+-a----         12/1/2019   6:03 PM         534028 Tugas10-1800016066 (2).docx
+-a----         12/1/2019   1:12 PM         534028 Tugas10-1800016066.docx
+-a----        12/15/2019   7:38 PM          19708 Tugas12-1800016066.docx
+-a----         12/8/2019  10:34 PM         877545 Tugas_11_1800016066.docx
+-a----         3/23/2020   2:17 PM         351494 Tugas_Dini180016045.docx
+-a----        12/13/2019   5:12 PM          74088 tumbasepatu.com_sobat kandas.pptx
+-a----          6/2/2020   1:59 PM        3214043 twice.jpg
+-a----         1/15/2020  10:39 PM          42894 uas jarkom.docx
+-a----         1/20/2021   7:31 AM          58738 UAS-MP20.docx
+-a----         7/28/2020   8:30 AM         967668 UASBO2020Susulan.pdf
+-a----         7/25/2020   2:40 PM          57838 UASpemvis.rar
+-a----         1/27/2021   5:33 PM          39532 UAS_A_E-Business_BimaRespatiKurniawan_1800016154(1).docx
+-a----         1/27/2021   7:31 AM          39532 UAS_A_E-Business_BimaRespatiKurniawan_1800016154.docx
+-a----         1/27/2021   7:37 AM          15408 UAS_ebusiness.docx
+-a----         1/27/2021   7:39 AM          68810 UAS_Ebusiness.pdf
+-a----         1/20/2021   8:36 AM          81924 UAS_Praktikum Pelatihan Psikologis_13F4.docx
+-a----         1/25/2021   9:18 PM          74975 UAS_TataKelolaTI.pdf
+-a----         1/27/2021   5:58 PM         470983 UAS_Technopreneurship(B)_Panji Atmojo_1800016024.docx
+-a----         1/25/2021  11:01 PM          18320 uas_TKTI.docx
+-a----          8/6/2020   5:37 PM        5378644 Unknown Brain - Why Do I (feat. Bri Tolani) (Lyrics Video).mp3
+-a----          7/6/2020   1:33 PM        3783120 Unlocker Downloader - JalanTikus_2195519217.exe
+-a----          7/6/2020   1:34 PM         346112 Unlocker64Bit_1.9.2_JalanTikus.msi
+-a----        11/15/2020   2:34 AM           1521 Untitled Diagram(1).drawio
+-a----        11/15/2020   1:51 AM           1609 Untitled Diagram.drawio
+-a----         4/25/2020  10:54 AM          50237 uts (1).rar
+-a----         4/22/2020  10:09 AM         603480 UTS APB Kelas C Genap 2020 - Sri Handayaningsih.pdf
+-a----         4/25/2020   9:54 AM          59991 uts.rar
+-a----         4/25/2020   8:44 AM          69278 UTSVisual2020PakPrih.docx
+-a----          7/9/2020   1:22 PM       19450605 VID-20200709-WA0011.mp4
+-a----         7/10/2020   1:10 PM       25356752 VID-20200710-WA0037.mp4
+-a----         7/13/2020   1:26 PM       21852777 VID-20200713-WA0007.mp4
+-a----         7/16/2020   1:21 PM       13397613 VID-20200716-WA0023.mp4
+-a----         7/17/2020   8:43 AM        4174285 VID-20200717-WA0001.mp4
+-a----         7/28/2020   8:30 AM        9254869 VID-20200728-WA0072.mp4
+-a----         10/5/2020  11:58 AM       14381608 VID-20201005-WA0031.mp4
+-a----         10/5/2020  11:57 AM        7027078 VID-20201005-WA0032(1).mp4
+-a----         10/5/2020  11:56 AM        7027078 VID-20201005-WA0032.mp4
+-a----         3/16/2020   7:45 PM       13311099 videoplayback.mp4
+-a----          4/1/2020   8:31 PM       58976784 VSCodeUserSetup-x64-1.43.2.exe
+-a----        12/21/2019   9:15 PM      204934765 website.rar
+-a----        11/17/2019  11:36 PM         219443 WhatsApp Image 2019-11-07 at 18.40.51.jpeg
+-a----        11/25/2019   9:59 PM         185195 WhatsApp Image 2019-11-25 at 21.58.23 (1).jpeg
+-a----        11/25/2019   9:59 PM         121951 WhatsApp Image 2019-11-25 at 21.58.23 (2).jpeg
+-a----        11/25/2019   9:59 PM         206186 WhatsApp Image 2019-11-25 at 21.58.23.jpeg
+-a----         1/17/2020   1:38 PM          83429 WhatsApp Image 2020-01-17 at 00.16.35.jpeg
+-a----         1/17/2020   1:20 PM          68461 WhatsApp Image 2020-01-17 at 00.16.36(1).jpeg
+-a----         1/17/2020   1:20 PM          83635 WhatsApp Image 2020-01-17 at 00.16.36(2).jpeg
+-a----         1/17/2020   2:58 PM          68461 WhatsApp Image 2020-01-17 at 00.16.36(3).jpeg
+-a----         1/17/2020   1:19 PM          83658 WhatsApp Image 2020-01-17 at 00.16.36.jpeg
+-a----         1/17/2020   5:50 PM          68643 WhatsApp Image 2020-01-17 at 17.37.18.jpeg
+-a----         1/17/2020   5:50 PM          54765 WhatsApp Image 2020-01-17 at 17.37.19.jpeg
+-a----         3/27/2020  10:08 AM         137665 WhatsApp Image 2020-03-27 at 08.51.36.jpeg
+-a----         3/27/2020   2:11 PM         184380 WhatsApp Image 2020-03-27 at 14.05.27.jpeg
+-a----         3/27/2020   2:21 PM          80912 WhatsApp Image 2020-03-27 at 14.17.13.jpeg
+-a----          4/2/2020   9:03 AM         109530 WhatsApp Image 2020-04-02 at 09.02.57.jpeg
+-a----          4/2/2020   9:26 AM         141923 WhatsApp Image 2020-04-02 at 09.25.09.jpeg
+-a----          4/2/2020   9:40 AM         131553 WhatsApp Image 2020-04-02 at 09.32.38.jpeg
+-a----          4/2/2020  10:18 AM          85519 WhatsApp Image 2020-04-02 at 10.14.06.jpeg
+-a----          4/3/2020   1:24 PM          71832 WhatsApp Image 2020-04-03 at 13.23.46.jpeg
+-a----         4/13/2020   3:28 PM         111350 WhatsApp Image 2020-04-13 at 14.59.40.jpeg
+-a----          5/2/2020  12:07 PM         112586 WhatsApp Image 2020-05-02 at 12.06.02(1).jpeg
+-a----          5/2/2020  12:07 PM         131185 WhatsApp Image 2020-05-02 at 12.06.02.jpeg
+-a----          6/5/2020   2:33 PM         216388 WhatsApp Image 2020-06-05 at 14.28.53.jpeg
+-a----         6/11/2020   9:02 AM          78148 WhatsApp Image 2020-06-11 at 08.53.21.jpeg
+-a----         6/13/2020   5:44 PM          57684 WhatsApp Image 2020-06-13 at 17.35.14(1).jpeg
+-a----         6/13/2020   5:44 PM          58996 WhatsApp Image 2020-06-13 at 17.35.14.jpeg
+-a----         6/13/2020   5:44 PM          50325 WhatsApp Image 2020-06-13 at 17.35.15(1).jpeg
+-a----         6/13/2020   5:44 PM          67191 WhatsApp Image 2020-06-13 at 17.35.15.jpeg
+-a----         6/22/2020   1:51 PM         108055 WhatsApp Image 2020-06-22 at 13.48.44.jpeg
+-a----         6/29/2020   3:29 PM         237068 WhatsApp Image 2020-06-29 at 15.25.56.jpeg
+-a----         6/30/2020   2:07 PM          52168 WhatsApp Image 2020-06-30 at 13.24.38.jpeg
+-a----          7/9/2020   8:54 AM         145170 WhatsApp Image 2020-07-09 at 08.50.07.jpeg
+-a----          7/9/2020   7:39 PM         160124 WhatsApp Image 2020-07-09 at 19.23.17.jpeg
+-a----         7/15/2020   8:52 PM         397581 WhatsApp Image 2020-07-15 at 20.46.45.jpeg
+-a----         7/15/2020   8:52 PM          90708 WhatsApp Image 2020-07-15 at 20.46.46 (1).jpeg
+-a----         7/15/2020   8:52 PM         336479 WhatsApp Image 2020-07-15 at 20.46.46.jpeg
+-a----         7/15/2020   8:53 PM         134245 WhatsApp Image 2020-07-15 at 20.46.47 (1).jpeg
+-a----         7/15/2020   8:52 PM         205278 WhatsApp Image 2020-07-15 at 20.46.47.jpeg
+-a----         7/21/2020   8:01 PM         112662 WhatsApp Image 2020-07-21 at 18.01.49.jpeg
+-a----         7/24/2020   9:12 AM          71712 WhatsApp Image 2020-07-23 at 11.20.36.jpeg
+-a----         10/5/2020   2:05 PM          44807 WhatsApp Image 2020-10-05 at 14.03.32.jpeg
+-a----         10/5/2020   2:14 PM          41244 WhatsApp Image 2020-10-05 at 14.04.19 (1).jpeg
+-a----         10/5/2020   2:13 PM          41244 WhatsApp Image 2020-10-05 at 14.04.19.jpeg
+-a----        10/19/2020  10:11 AM         186697 WhatsApp Image 2020-10-19 at 07.24.57.jpeg
+-a----        10/30/2020   9:50 AM          89436 WhatsApp Image 2020-10-30 at 09.38.18.jpeg
+-a----        11/18/2020  10:18 AM          89386 WhatsApp Image 2020-11-18 at 10.18.04.jpeg
+-a----        11/18/2020  10:18 AM          89525 WhatsApp Image 2020-11-18 at 10.18.05 (1).jpeg
+-a----        11/18/2020  10:18 AM          81024 WhatsApp Image 2020-11-18 at 10.18.05 (2).jpeg
+-a----        11/18/2020  10:18 AM          57115 WhatsApp Image 2020-11-18 at 10.18.05 (3).jpeg
+-a----        11/18/2020  10:18 AM          70914 WhatsApp Image 2020-11-18 at 10.18.05.jpeg
+-a----         1/27/2021   5:11 PM         125007 WhatsApp Image 2021-01-27 at 16.59.32.jpeg
+-a----         1/29/2021   2:03 AM          61265 WhatsApp Image 2021-01-29 at 02.03.02.jpeg
+-a----         1/29/2021   4:55 AM          41845 WhatsApp Image 2021-01-29 at 04.55.40.jpeg
+-a----         3/19/2021  11:12 PM         102338 WhatsApp Image 2021-03-19 at 23.08.46.jpeg
+-a----         3/26/2021   8:39 PM          37940 WhatsApp Image 2021-03-26 at 19.59.52.jpeg
+-a----         3/26/2021   8:39 PM          41542 WhatsApp Image 2021-03-26 at 20.00.15.jpeg
+-a----         3/26/2021   8:40 PM          21324 WhatsApp Image 2021-03-26 at 20.00.25.jpeg
+-a----          4/2/2020   3:23 PM        1492530 WhatsApp Video 2020-04-02 at 14.57.57.mp4
+-a----          4/3/2020  10:25 AM        3596148 WhatsApp Video 2020-04-03 at 08.57.56.mp4
+-a----          4/3/2020   1:47 PM        5114999 WhatsApp Video 2020-04-03 at 13.43.27.mp4
+-a----          4/7/2020  12:57 PM         931927 WhatsApp Video 2020-04-07 at 12.52.07.mp4
+-a----          5/2/2020  11:55 AM        6327152 WhatsApp Video 2020-05-02 at 11.54.25.mp4
+-a----         6/15/2020   1:36 PM         305611 WhatsApp Video 2020-06-15 at 13.32.41.mp4
+-a----         6/29/2020   1:14 PM         972240 WhatsApp Video 2020-06-29 at 13.12.42.mp4
+-a----         6/30/2020   1:14 PM         315344 WhatsApp Video 2020-06-30 at 12.59.50.mp4
+-a----          7/2/2020   1:17 PM         394042 WhatsApp Video 2020-07-02 at 13.07.58.mp4
+-a----          7/9/2020   8:44 AM         328778 WhatsApp Video 2020-07-09 at 08.37.15.mp4
+-a----          8/1/2020  10:54 AM        3785630 WhatsApp Video 2020-08-01 at 10.51.17.mp4
+-a----        12/19/2020  11:45 AM       38428280 WhatsApp Video 2020-12-19 at 09.54.02.mp4
+-a----          1/4/2021   4:48 AM       23748667 WhatsApp Video 2021-01-04 at 04.28.29.mp4
+-a----         9/22/2020  10:22 AM      162709936 WhatsAppSetup.exe
+-a----        10/24/2019   8:39 AM        3205768 winrar-x64-58b3.exe
+-a----         4/23/2018   3:19 AM        8771584 WinToolkit.exe
+-a----         7/10/2020   7:40 PM        3368448 xampp-control.exe
+-a----         7/10/2020  11:19 PM           1196 xampp-control.ini
+-a----         7/10/2020  11:19 PM           2047 xampp-control.log
+-a----        12/17/2019  10:43 PM      148216280 xampp-windows-x64-7.1.33-1-VC14-installer.exe
+-a----          6/2/2020   4:35 PM            979 zoom1.png
+-a----          4/2/2020   4:03 PM          78168 Zoom_414d3d1d4a30e911.exe
+-a----        12/19/2020   8:17 PM          83288 Zoom_cm_ds_mYg-Z4YFOC--ysUXbCs6K56uDctuIRvLXFCQ@qx9l6k4yMa+Q0jKh_k54d
+                                                  a330afe464761_.exe
+-a----          4/7/2020   9:04 AM          78168 Zoom_ee60260bf26bde0c.exe
+-a----          4/2/2020   8:15 PM          78168 Zoom_o42l8sofizku_4c7faae3dc154aa1 (1).exe
+-a----          4/2/2020   3:25 PM          78168 Zoom_o42l8sofizku_aadf43878319be3a.exe
+-a----        11/29/2019  10:46 PM      996497499 [AWSubs] Kimi no Na wa. [BD][1080p][7490FA6C].mkv
+-a----        11/29/2019   4:21 PM      534315970 [Yuki] Gekijouban Seishun Buta Yaro wa Yumemiru Shoujo no Yume wo
+                                                  Minai (WEB-DL 720p-AAC) [9C6D63C7].mkv
+
+
+PS C:\Users\HP\Downloads> help
+
+TOPIC
+    Windows PowerShell Help System
+
+SHORT DESCRIPTION
+    Displays help about Windows PowerShell cmdlets and concepts.
+
+LONG DESCRIPTION
+    Windows PowerShell Help describes Windows PowerShell cmdlets,
+    functions, scripts, and modules, and explains concepts, including
+    the elements of the Windows PowerShell language.
+
+    Windows PowerShell does not include help files, but you can read the
+    help topics online, or use the Update-Help cmdlet to download help files
+    to your computer and then use the Get-Help cmdlet to display the help
+    topics at the command line.
+
+    You can also use the Update-Help cmdlet to download updated help files
+    as they are released so that your local help content is never obsolete.
+
+    Without help files, Get-Help displays auto-generated help for cmdlets,
+    functions, and scripts.
+
+
+PS C:\Users\HP\Downloads> hostname
+LAPTOP-3T08JC2O
+PS C:\Users\HP\Downloads> whoim
+whoim : The term 'whoim' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ whoim
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (whoim:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\HP\Downloads> ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::4597:b746:8bfa:feb8%16
+   IPv4 Address. . . . . . . . . . . : 192.168.1.106
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+PS C:\Users\HP\Downloads> mkdir
+
+cmdlet mkdir at command pipeline position 1
+Supply values for the following parameters:
+Path[0]:
+PS C:\Users\HP\Downloads> netsh
+netsh>100.100.0.1
+The following command was not found: 100.100.0.1.
+netsh>ping 192.168.1.1
+The following command was not found: ping 192.168.1.1.
+netsh>
+PS C:\Users\HP\Downloads> ping 192.168.100.1
+
+Pinging 192.168.100.1 with 32 bytes of data:
+Request timed out.
+
+Ping statistics for 192.168.100.1:
+    Packets: Sent = 1, Received = 0, Lost = 1 (100% loss),
+Control-C
+PS C:\Users\HP\Downloads> rmdir
+
+cmdlet Remove-Item at command pipeline position 1
+Supply values for the following parameters:
+Path[0]:
+PS C:\Users\HP\Downloads> $location = Get-Location
+PS C:\Users\HP\Downloads>  $location | Get-Member
+
+
+   TypeName: System.Management.Automation.PathInfo
+
+Name         MemberType Definition
+----         ---------- ----------
+Equals       Method     bool Equals(System.Object obj)
+GetHashCode  Method     int GetHashCode()
+GetType      Method     type GetType()
+ToString     Method     string ToString()
+Drive        Property   System.Management.Automation.PSDriveInfo Drive {get;}
+Path         Property   string Path {get;}
+Provider     Property   System.Management.Automation.ProviderInfo Provider {get;}
+ProviderPath Property   string ProviderPath {get;}
+
+
+PS C:\Users\HP\Downloads> tasklist
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0     36.804 K
+Registry                       124 Services                   0     47.528 K
+smss.exe                       884 Services                   0        244 K
+csrss.exe                      988 Services                   0      2.516 K
+wininit.exe                    860 Services                   0        884 K
+services.exe                   936 Services                   0      6.676 K
+lsass.exe                     1036 Services                   0     12.004 K
+svchost.exe                   1168 Services                   0     20.956 K
+fontdrvhost.exe               1212 Services                   0        580 K
+WUDFHost.exe                  1268 Services                   0      5.508 K
+svchost.exe                   1372 Services                   0     13.728 K
+svchost.exe                   1420 Services                   0      4.204 K
+svchost.exe                   1624 Services                   0      2.312 K
+svchost.exe                   1632 Services                   0      6.456 K
+svchost.exe                   1640 Services                   0      6.288 K
+svchost.exe                   1792 Services                   0      3.344 K
+svchost.exe                   1844 Services                   0      4.284 K
+svchost.exe                   1872 Services                   0      4.120 K
+IntelCpHDCPSvc.exe            1948 Services                   0      1.640 K
+svchost.exe                    956 Services                   0      4.424 K
+svchost.exe                   1524 Services                   0      4.196 K
+igfxCUIService.exe            2000 Services                   0      1.348 K
+svchost.exe                   2136 Services                   0     10.672 K
+IntelCpHeciSvc.exe            2144 Services                   0      1.404 K
+svchost.exe                   2240 Services                   0      3.584 K
+svchost.exe                   2360 Services                   0      9.840 K
+svchost.exe                   2384 Services                   0      5.696 K
+svchost.exe                   2392 Services                   0      1.988 K
+svchost.exe                   2452 Services                   0      3.660 K
+svchost.exe                   2488 Services                   0      2.456 K
+svchost.exe                   2564 Services                   0      6.596 K
+AppHelperCap.exe              2584 Services                   0      9.652 K
+SysInfoCap.exe                2616 Services                   0     12.676 K
+NetworkCap.exe                2648 Services                   0      2.192 K
+svchost.exe                   2796 Services                   0      1.840 K
+svchost.exe                   2828 Services                   0      5.140 K
+dasHost.exe                   2876 Services                   0        488 K
+svchost.exe                   2908 Services                   0      2.244 K
+svchost.exe                   3044 Services                   0      5.644 K
+svchost.exe                   2896 Services                   0      6.244 K
+svchost.exe                   3132 Services                   0     11.916 K
+svchost.exe                   3176 Services                   0      2.352 K
+svchost.exe                   3316 Services                   0     14.952 K
+svchost.exe                   3364 Services                   0      1.372 K
+svchost.exe                   3576 Services                   0      7.260 K
+svchost.exe                   3740 Services                   0      3.948 K
+svchost.exe                   3796 Services                   0      6.092 K
+svchost.exe                   3892 Services                   0     15.400 K
+atiesrxx.exe                  3948 Services                   0      1.076 K
+amdfendrsr.exe                3956 Services                   0      1.388 K
+svchost.exe                   3028 Services                   0     49.124 K
+svchost.exe                   3252 Services                   0      1.816 K
+svchost.exe                   3596 Services                   0      3.772 K
+Memory Compression            3856 Services                   0    145.284 K
+svchost.exe                   4164 Services                   0      8.608 K
+svchost.exe                   4276 Services                   0      2.848 K
+svchost.exe                   4284 Services                   0      3.568 K
+svchost.exe                   4468 Services                   0      7.884 K
+svchost.exe                   4516 Services                   0      3.724 K
+spoolsv.exe                   4616 Services                   0      4.952 K
+svchost.exe                   4652 Services                   0      7.588 K
+svchost.exe                   4784 Services                   0      2.840 K
+svchost.exe                   4820 Services                   0      7.604 K
+svchost.exe                   5044 Services                   0     20.572 K
+ETDService.exe                5052 Services                   0      1.140 K
+OneApp.IGCC.WinService.ex     5064 Services                   0      4.880 K
+svchost.exe                   5072 Services                   0      2.900 K
+RtkAudUService64.exe          5080 Services                   0      3.844 K
+svchost.exe                   5096 Services                   0      1.620 K
+mfemms.exe                    5104 Services                   0      2.780 K
+PEFService.exe                5112 Services                   0      1.044 K
+ModuleCoreService.exe         1228 Services                   0     33.056 K
+RtkBtManServ.exe              1224 Services                   0      2.624 K
+svchost.exe                   4184 Services                   0      1.340 K
+SECOMN64.exe                  4260 Services                   0      1.992 K
+svchost.exe                   1916 Services                   0     35.652 K
+RstMwService.exe              1968 Services                   0      1.140 K
+svchost.exe                   4316 Services                   0      2.300 K
+svchost.exe                   2164 Services                   0      7.708 K
+EMP_UDSA.exe                  5228 Services                   0      1.168 K
+AGSService.exe                5236 Services                   0      6.148 K
+AGMService.exe                5240 Services                   0      3.424 K
+WildTangentHelperService.     5264 Services                   0      6.440 K
+svchost.exe                   5316 Services                   0      2.008 K
+svchost.exe                   5468 Services                   0      1.336 K
+esif_uf.exe                   5516 Services                   0      1.620 K
+OfficeClickToRun.exe          5756 Services                   0     15.776 K
+MsMpEng.exe                   5800 Services                   0    210.836 K
+MoUsoCoreWorker.exe           5916 Services                   0     31.764 K
+jhi_service.exe               5956 Services                   0      1.052 K
+svchost.exe                   6040 Services                   0      4.204 K
+svchost.exe                   6124 Services                   0      3.848 K
+MMSSHOST.exe                  6096 Services                   0     37.168 K
+mfevtps.exe                   1856 Services                   0      6.236 K
+ProtectedModuleHost.exe       6152 Services                   0      5.048 K
+mfefire.exe                   6408 Services                   0      2.248 K
+svchost.exe                   4984 Services                   0     20.184 K
+dllhost.exe                   7128 Services                   0      3.564 K
+McCSPServiceHost.exe          1932 Services                   0     13.804 K
+svchost.exe                   2252 Services                   0      2.584 K
+WmiPrvSE.exe                  5988 Services                   0     12.280 K
+unsecapp.exe                  3224 Services                   0      3.636 K
+WmiPrvSE.exe                  1676 Services                   0      6.356 K
+NisSrv.exe                    7300 Services                   0      5.656 K
+svchost.exe                   7456 Services                   0     10.472 K
+svchost.exe                   7548 Services                   0      9.160 K
+svchost.exe                   2816 Services                   0      1.804 K
+svchost.exe                   8068 Services                   0     11.692 K
+SearchIndexer.exe             8552 Services                   0     22.268 K
+svchost.exe                   8560 Services                   0     10.120 K
+svchost.exe                   3032 Services                   0      6.740 K
+SecurityHealthService.exe    10096 Services                   0      8.292 K
+MfeAVSvc.exe                 10196 Services                   0      7.752 K
+mcapexe.exe                  10264 Services                   0      1.440 K
+svchost.exe                  10748 Services                   0      6.116 K
+mcshield.exe                 10412 Services                   0      6.336 K
+svchost.exe                  10336 Services                   0      7.484 K
+HPCommRecovery.exe            8420 Services                   0      8.832 K
+svchost.exe                  10740 Services                   0      3.376 K
+TouchpointAnalyticsClient     2052 Services                   0     25.964 K
+svchost.exe                   3416 Services                   0      3.068 K
+SgrmBroker.exe               10732 Services                   0      4.352 K
+svchost.exe                   2280 Services                   0      4.936 K
+svchost.exe                  13256 Services                   0      5.976 K
+csrss.exe                    12132 Console                    2      3.696 K
+winlogon.exe                  1572 Console                    2      4.236 K
+fontdrvhost.exe               1308 Console                    2      8.216 K
+dwm.exe                      13148 Console                    2     64.108 K
+svchost.exe                   8652 Services                   0      2.216 K
+atieclxx.exe                 11524 Console                    2      5.540 K
+ETDCtrl.exe                  11516 Console                    2      5.064 K
+svchost.exe                  11192 Console                    2     16.696 K
+svchost.exe                  12344 Console                    2      3.616 K
+svchost.exe                   9424 Console                    2     21.824 K
+taskhostw.exe                 9316 Console                    2     12.452 K
+sihost.exe                   10864 Console                    2     20.116 K
+igfxEM.exe                    3932 Console                    2      6.028 K
+explorer.exe                  4408 Console                    2    134.924 K
+ctfmon.exe                   10416 Console                    2     15.612 K
+svchost.exe                   8200 Console                    2     13.816 K
+SettingSyncHost.exe            972 Console                    2      4.220 K
+SecurityHealthSystray.exe     4840 Console                    2      3.812 K
+StartMenuExperienceHost.e     2960 Console                    2     75.456 K
+svchost.exe                   3212 Services                   0      1.812 K
+RtkAudUService64.exe         11508 Console                    2      3.784 K
+YourPhone.exe                 1276 Console                    2      1.580 K
+RuntimeBroker.exe             1888 Console                    2     14.792 K
+vgtray.exe                   11700 Console                    2      1.492 K
+ModuleCoreService.exe         6072 Console                    2     17.360 K
+HPAudioSwitch.exe            10136 Console                    2      8.368 K
+conhost.exe                  13016 Console                    2      1.220 K
+OneDrive.exe                 13160 Console                    2     15.408 K
+SearchApp.exe                 3852 Console                    2     70.940 K
+TinyTake by MangoApps.exe     6924 Console                    2      7.408 K
+HP.JumpStarts.exe             7920 Console                    2      1.604 K
+RuntimeBroker.exe             2900 Console                    2     33.776 K
+svchost.exe                  11188 Services                   0      5.736 K
+RuntimeBroker.exe            11300 Console                    2     22.096 K
+RadeonSoftware.exe           13260 Console                    2     15.132 K
+Cortana.exe                   7852 Console                    2      1.656 K
+RuntimeBroker.exe            13536 Console                    2      2.884 K
+svchost.exe                  13908 Console                    2     13.452 K
+jusched.exe                  14276 Console                    2      1.904 K
+svchost.exe                   6716 Console                    2      7.392 K
+HPSystemEventUtilityHost.     4216 Console                    2     16.504 K
+SimpleShareProxy.exe          7776 Console                    2      3.268 K
+AMDRSServ.exe                 5404 Console                    2     17.444 K
+TextInputHost.exe             9192 Console                    2     11.536 K
+dllhost.exe                   4100 Console                    2      7.356 K
+amdow.exe                     1448 Console                    2      1.144 K
+RuntimeBroker.exe             3372 Console                    2      1.804 K
+RuntimeBroker.exe             7572 Console                    2      5.836 K
+wpscenter.exe                 1980 Console                    2      2.036 K
+jucheck.exe                  10736 Console                    2      2.072 K
+LockApp.exe                   5596 Console                    2      3.456 K
+RuntimeBroker.exe             9492 Console                    2      9.172 K
+ApplicationFrameHost.exe     11976 Console                    2     25.860 K
+Video.UI.exe                 10948 Console                    2      1.032 K
+McSmtFwk.exe                  7944 Services                   0      1.556 K
+wpscloudsvr.exe               4528 Console                    2      3.220 K
+svchost.exe                  15356 Services                   0      1.240 K
+CompPkgSrv.exe               12136 Console                    2      4.848 K
+svchost.exe                   7596 Services                   0      1.712 K
+ShellExperienceHost.exe       9520 Console                    2     11.012 K
+RuntimeBroker.exe            10592 Console                    2      3.028 K
+RuntimeBroker.exe            14648 Console                    2      7.004 K
+Microsoft.Photos.exe          1144 Console                    2      4.568 K
+RuntimeBroker.exe            11592 Console                    2      7.508 K
+svchost.exe                  10884 Services                   0      5.684 K
+firefox.exe                   4180 Console                    2    441.764 K
+firefox.exe                  15692 Console                    2    307.992 K
+firefox.exe                   3004 Console                    2     96.132 K
+firefox.exe                  14480 Console                    2    125.364 K
+firefox.exe                  11584 Console                    2    324.380 K
+firefox.exe                  16160 Console                    2     54.184 K
+wps.exe                       7988 Console                    2     38.032 K
+wps.exe                      15852 Console                    2     87.556 K
+promecefpluginhost.exe       17000 Console                    2     35.052 K
+firefox.exe                  12352 Console                    2    226.596 K
+McUICnt.exe                  10356 Console                    2     38.164 K
+Code.exe                      3488 Console                    2     92.812 K
+Code.exe                      5016 Console                    2     24.328 K
+Code.exe                      2808 Console                    2     94.388 K
+Code.exe                      8044 Console                    2     40.192 K
+Code.exe                     15556 Console                    2     85.252 K
+Code.exe                     16980 Console                    2     65.404 K
+CodeSetup-stable-c185983a    14824 Console                    2      7.964 K
+CodeSetup-stable-c185983a    11220 Console                    2     24.000 K
+audiodg.exe                  15624 Services                   0     12.768 K
+Code.exe                      9328 Console                    2    150.480 K
+CodeHelper.exe               17472 Console                    2     11.084 K
+Code.exe                     15936 Console                    2     84.232 K
+conhost.exe                   8544 Console                    2      6.284 K
+SystemSettings.exe           12716 Console                    2      1.472 K
+UserOOBEBroker.exe            7980 Console                    2      9.200 K
+firefox.exe                   7172 Console                    2    196.084 K
+git-bash.exe                 11816 Console                    2      5.028 K
+mintty.exe                    4692 Console                    2     17.756 K
+conhost.exe                  15400 Console                    2     12.920 K
+bash.exe                     12104 Console                    2      9.964 K
+firefox.exe                   7028 Console                    2    124.500 K
+notepad.exe                  13664 Console                    2     17.748 K
+powershell.exe               18428 Console                    2     84.196 K
+conhost.exe                  12632 Console                    2     16.548 K
+svchost.exe                  17228 Services                   0      7.508 K
+RuntimeBroker.exe            16432 Console                    2     20.740 K
+firefox.exe                   4796 Console                    2    159.004 K
+firefox.exe                  16424 Console                    2     35.996 K
+tasklist.exe                 17568 Console                    2     10.068 K
+PS C:\Users\HP\Downloads> time
+time : The term 'time' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ time
++ ~~~~
+    + CategoryInfo          : ObjectNotFound: (time:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\HP\Downloads> dir
+
+
+    Directory: C:\Users\HP\Downloads
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        11/18/2019   1:58 PM                bd1_modul6_a-20191118T065623Z-001
+d-----         12/9/2019   7:45 PM                bell-notification-background
+d-----          1/8/2021   7:38 PM                Cetak Transkrip Nilai - Portal UAD_files
+d-----         6/15/2020   2:57 PM                chartmasukindata
+d-----         3/19/2021  12:45 PM                latihan minggu 2
+d-----        12/23/2020   3:05 PM                MyAdmin
+d-----         3/25/2021  11:48 PM                praxis-academy-master
+d-----         7/28/2020  12:47 PM                SBOUAS
+d-----          2/5/2021   4:20 PM                Telegram Desktop
+d-----         3/19/2021   1:34 PM                tugas minggu 2
+d-----         4/25/2020   8:30 AM                uts
+d-----         3/23/2020   4:01 PM                VirtualBox-6.1.4-136177-Win
+-a----         1/23/2021   7:10 PM         239965 #2-UAS GASAL RPL 2020.pdf
+-a----          2/3/2021   9:32 PM          43085 #revisi Merancang Kebutuhan Fungsional(1).pdf
+-a----        11/15/2020   3:29 AM          11622 #revisi Merancang Kebutuhan Fungsional.docx
+-a----        11/15/2020   3:28 AM          43085 #revisi Merancang Kebutuhan Fungsional.pdf
+-a----        11/15/2020  12:07 AM           7542 #revisi Tugas 4 - USER STORY revisi.docx
+-a----        11/15/2020  12:07 AM          57026 #revisi Tugas 4 - USER STORY revisi.pdf
+-a----        10/25/2013   3:34 PM         100831 ${distro.zipfilename.extensions}.nbm
+-a----         1/23/2021  11:21 PM          41357 0000365295.jpg
+-a----        12/19/2020  11:19 PM        2541144 02-SQL dump.pptx
+-a----        11/22/2019   7:11 PM        9845606 06-1800016087-OSKHA RAFIDA MUADZ.docx
+-a----          4/9/2019   6:32 PM      117873104 1.WPSOffice_11.2.0.8310_Free_beta.exe
+-a----         7/23/2020   9:06 AM          90171 1151-2402-2-PB.docx
+-a----         7/23/2020   9:04 AM        1145932 1151-2402-2-PB.pdf
+-a----        10/21/2020   9:28 PM          69079 118742_kampung-kauman--yogyakarta_665_374.jpg
+-a----         12/2/2019   5:37 PM         738372 124-13-605-1-10-20170904.pdf
+-a----          7/7/2020   5:34 PM       69337529 1383067774_iReport-5.5.0-plugin.zip
+-a----         7/23/2020  10:45 AM          49209 160002970_Analisis_Proses_Bisnis_C_20200719111820.docx
+-a----         7/22/2020   7:57 AM         320207 160002970_Analisis_Proses_Bisnis_C_20200719111820.pdf
+-a----         7/25/2020   7:31 AM         802589 160002977_Pemrograman_Visual_A_20200719071611.pdf
+-a----         7/27/2020   8:21 AM          40861 160002980_Sekuritas_Komputer_A_20200719163153.docx
+-a----         7/27/2020   8:18 AM         237160 160002980_Sekuritas_Komputer_A_20200719163153.pdf
+-a----          8/1/2020  10:17 AM         592000 160002988_Struktur_Data_B_20200719080804.pdf
+-a----         7/23/2020   7:17 AM          73202 160002991_Teknologi_Web_Lanjut_A_20200719184524.pdf
+-a----         7/26/2020   3:51 PM          44834 160003032_Islam_Interdisipliner_A_20200719072907.docx
+-a----         7/26/2020   3:32 PM         440768 160003032_Islam_Interdisipliner_A_20200719072907.pdf
+-a----         7/23/2020   2:03 PM         326881 160003075_Basis_Data_Lanjut_D_20200719072612.docx
+-a----         7/23/2020   6:27 AM         369168 160003075_Basis_Data_Lanjut_D_20200719072612.pdf
+-a----        11/23/2019  12:44 PM         213188 1602204110960002_kartuAkun (1).pdf
+-a----        11/23/2019  12:39 PM         213188 1602204110960002_kartuAkun.pdf
+-a----        11/23/2019  12:37 PM         260398 1602204110960002_kartuDaftar.pdf
+-a----         8/15/2020   3:16 PM          10737 1700016004-Holan Rahmatullah S N-A-11.docx
+-a----         1/27/2021  10:20 AM       16899807 1800016024 Panji Atmojo.pdf
+-a----          4/5/2021   7:10 PM         373797 1800016042_ROHMATUL MUNGFARIDAH(1).docx
+-a----         3/29/2021   6:10 PM         314140 1800016042_ROHMATUL MUNGFARIDAH.docx
+-a----         8/15/2020   3:17 PM          14622 1800016052-Laa Tania Fisabillah-Tugas11.docx
+-a----         8/10/2020  11:44 AM          17087 1800016052-Laa Tania Fisabillah-Tugas6.docx
+-a----         7/28/2020   5:17 PM          17189 1800016052_Laa Tania Fisabillah.docx
+-a----         12/1/2019   9:04 PM        1888811 1800016066-PRAK08.docx
+-a----         12/9/2019  12:19 PM        3293647 1800016066-PRAK09 (1).docx
+-a----        12/10/2019   7:09 PM        3229615 1800016066-PRAK09 (2).docx
+-a----         12/8/2019   9:00 PM          10812 1800016066-PRAK09.docx
+-a----        11/18/2020   8:31 PM          20299 1800016147_Muhammad Imam Akbar_A.docx
+-a----         1/20/2021   7:35 AM         297710 18081031_Agesa Vebiwana_13F2.pdf
+-a----         1/18/2021   3:58 PM         263239 18081031_Agesa Vebiwana_UAS-compressed.pdf
+-a----         1/18/2021   3:54 PM       10517278 18081031_Agesa Vebiwana_UAS.pdf
+-a----          4/2/2020   1:18 PM        1026753 194-37-300-1-10-20180521.pdf
+-a----         1/27/2021   9:49 AM         300509 2000016001 - Apridan Husaeni Muharam.pdf
+-a----         7/23/2020  10:55 AM       18320844 2018_Book_FundamentalsOfBusinessProcessM.pdf
+-a----         1/23/2021  11:17 PM          45778 20200506223004_5eb2d7fcd5bee.jpg
+-a----         1/18/2021   3:39 PM        3474288 20210118_153642.jpg
+-a----         1/18/2021   3:39 PM        3221661 20210118_153709.jpg
+-a----         1/27/2021  10:13 AM        3061939 20210127_094906.jpg
+-a----         1/27/2021  10:13 AM        3095547 20210127_100842.jpg
+-a----         1/27/2021  10:19 AM        3032892 20210127_100852.jpg
+-a----         1/27/2021  10:13 AM        3061202 20210127_100927.jpg
+-a----         1/27/2021  10:12 AM        3056220 20210127_100934.jpg
+-a----         1/31/2021   8:53 AM          18007 20210128_185046_0000.png
+-a----          4/2/2021   1:14 AM        2564257 20210314_132202_resized.jpg
+-a----         3/25/2021   1:16 AM        2644051 20210321_061816.jpg
+-a----        12/18/2019  11:29 AM         839986 44830-469-93841-1-10-20181217 (1).pdf
+-a----        12/18/2019  11:09 AM         839986 44830-469-93841-1-10-20181217.pdf
+-a----         1/23/2021  11:23 PM          42444 5-fakta-konser-bts-yang-akan-digelar-di-stadion-wembley-tiket-sold-hi
+                                                  ngga-jadwal-konser-ditambah.jpg
+-a----         1/23/2021  11:23 PM         206812 5558f5a6-b691-41ad-a7e2-bea7f2d09ba9.jpg
+-a----         12/7/2020   7:29 AM           1203 5desember.rar
+-a----         1/23/2021  11:20 PM          74742 7273_kuis-berhadiah-tiket-konser-bruno-mars-live-in-jakarta-2014.jpg
+-a----        10/21/2020   9:59 PM         808957 81fb9d158be8b93d8d763badb5230967794c35ab.jpg
+-a----         4/15/2020   2:49 PM          22529 9917-24162-2-SP.xlsx
+-a----        10/10/2020   2:13 PM        1210367 A-1800016013-Okky Buddi Pratama-3.pdf
+-a----          4/9/2020  11:57 AM         568811 ABSTRACT CLASS.docx
+-a----          8/6/2020   3:39 PM      841242247 adobe primiere 2015.rar
+-a----        10/24/2019   8:37 AM       11967352 aimp_4.60.2156.exe
+-a----         1/21/2021   1:31 PM          79054 Airport noise monitoring data set - graphic.xlsx
+-a----        11/23/2019  12:41 AM        3920032 Akreditasi_reduce.docx
+-a----        11/23/2019  12:38 AM         328206 Akreditasi_reduce.pdf
+-a----         1/20/2021   7:50 AM          18300 analisis.docx
+-a----          4/5/2021   4:09 PM      939674592 android-studio-ide-201.7199119-windows.exe
+-a----         7/17/2020   8:10 PM        4056520 Aplikasi-CRUD-Lanjutan-Form-Login-dengan-CI--master.zip
+-a----         7/28/2020   5:49 PM       16339216 Aplikasi-Login-Form-CRUD-dengan-Angular-UAS-TEKWEB--master.zip
+-a----          6/2/2020   4:38 PM            926 Apps-Java-icon.png
+-a----          1/6/2021   9:46 PM          95423 arabica.jpg
+-a----         4/22/2020  10:09 AM         731530 Arti.pdf
+-a----          4/5/2021  12:44 PM         531698 ASJ-VPN.pptx
+-a----         4/21/2020   8:43 PM          29187 avatar.png
+-a----         4/25/2020  11:19 AM        5665950 bandicam 2020-04-25 11-15-00-143.mp4
+-a----         7/25/2020   2:41 PM           8802 basisdatamahasiswa.sql
+-a----        11/29/2019   3:24 PM       36025614 BATNAS_100E-105E_05S-000_EGM_v1.1 (1).tif
+-a----        11/29/2019   2:41 PM       36025614 BATNAS_100E-105E_05S-000_EGM_v1.1.tif
+-a----        11/18/2019   7:12 PM           6453 bd1_modul6_a.sql
+-a----         12/9/2019   7:45 PM        3860268 bell-notification-background.zip
+-a----         9/12/2020   9:37 PM        2029741 belum kelompok RPL BK 1 Lembar Revisi (1) (1).docx
+-a----         1/18/2021  12:17 AM        1705035 bendera.jpg
+-a----         1/17/2021  11:57 PM        2739616 bendera.png
+-a----         4/13/2020   1:09 PM          38722 bola
+-a----         4/13/2020   1:32 PM           1593 bola sepak.jpg
+-a----         4/13/2020   1:10 PM          38722 bola.jpg
+-a----         4/13/2020   1:08 PM          38722 bola.webp
+-a----         4/13/2020   1:11 PM         321518 bola1.jpg
+-a----         4/13/2020   1:11 PM          81424 bola2.jpg
+-a----         4/13/2020   1:14 PM          38722 Bolla.jpg
+-a----          1/6/2021  10:11 PM          57470 brownies.jpg
+-a----          1/6/2021   9:47 PM          64755 caffe latte.jpg
+-a----          8/6/2020   3:15 PM           9836 Cara instal Download Adobe Premiere Pro CC 2015.pdf
+-a----          7/9/2020   8:31 AM          79313 Cara Membuat MultiThread di Java.docx
+-a----          8/6/2020   5:39 PM        4954834 Cartoon - On & On (Official Music Video).mp3
+-a----          8/6/2020   5:39 PM        5115330 Cartoon - Why We Lose (feat. Coleman Trapp) [NCS Release].mp3
+-a----         4/27/2020  12:26 PM       15722626 CEH Module 05.pdf
+-a----         7/27/2020   9:25 AM       18104282 CEH Module 12.pdf
+-a----         3/16/2020   8:02 PM       10871248 CEH v10 Module 02 - Footprinting & Reconnaissance -
+                                                  www.ethicalhackx.com .pdf
+-a----          1/8/2021   7:38 PM          24239 Cetak Transkrip Nilai - Portal UAD.html
+-a----        12/19/2020   1:51 PM          26152 Challenge Datamining.xlsx
+-a----        12/27/2020   9:09 PM        6653342 Challenge-Datamaining_1800016024.ipynb
+-a----          8/1/2020   2:44 PM          41804 chartmasukindata-1.rar
+-a----         1/29/2021   4:58 AM         315089 CHIN CHIN DWINANTI_1700001061_LAPORAN KEWIRAUSAHAAN.docx
+-a----          6/1/2020   4:05 PM        1295576 ChromeSetup(1).exe
+-a----        10/30/2020  10:17 AM        1317080 ChromeSetup(2).exe
+-a----         3/23/2020   4:22 PM        1288408 ChromeSetup.exe
+-a----        10/24/2019   8:31 AM       59897600 ChromeStandaloneSetup64.exe
+-a----         7/15/2020   8:35 PM         565986 CI-CRUD (1).pdf
+-a----         7/15/2020   8:35 PM         565986 CI-CRUD.pdf
+-a----         7/11/2020   9:57 AM         969450 ci4App(1).rar
+-a----         7/10/2020   8:34 PM         969450 ci4App.rar
+-a----         12/6/2020   8:14 PM          18291 Classification_1800016024.ipynb
+-a----        12/19/2019  12:01 PM       11102265 cozastore.zip
+-a----         12/8/2019   9:06 PM        1892368 cpu-z-1-90.exe
+-a----          8/6/2020   3:15 PM         832342 Crack All Adobe CC 2015.rar
+-a----          1/6/2021   6:55 PM          33589 Cryotherapy.xlsx
+-a----         1/21/2021   3:12 PM        1780736 CTG.xls
+-a----         7/26/2020  10:53 PM         154675 curii-master.zip
+-a----         2/23/2021   2:42 AM         798653 CV GILANG MUBHARAK(1).png
+-a----         2/23/2021   2:40 AM        2049840 CV GILANG MUBHARAK.docx
+-a----         8/19/2020   8:15 AM          28467 DAKWAH_NABI_MUHAMMAD_SAW_KE_MADINAH.png
+-a----         1/21/2021   1:34 PM              0 dataR2.xlsx
+-a----        11/12/2020  11:04 AM          70392 datauts(1).csv
+-a----         6/29/2020   3:35 PM           5899 dbmhs.sql
+-a----         12/1/2019   5:09 PM          20634 debug.exe
+-a----        11/29/2019   2:47 PM       44463366 DEMNAS_1011-64_v1.0.tif
+-a----         12/9/2019   1:48 PM            728 Desktop - Shortcut.lnk
+-a----        11/15/2020   5:03 AM          70281 Diagram Use Case.jpg
+-a----          8/1/2020   1:44 PM         221899 ding dikoding.pdf
+-a----         7/27/2020  11:42 PM        4901848 Doc Jul 27 2020 23.39.pdf
+-a----         7/27/2020  11:44 PM        5578064 Doc Jul 27 2020 23.42.pdf
+-a----         12/1/2019   1:08 PM         239648 Doc1.docx
+-a----        11/17/2019  11:13 PM        2485960 Dokumen dari Panji_atmojo.docx
+-a----        10/17/2020  11:07 AM           4662 DongengYogya.html
+-a----         11/7/2020  10:47 AM       41876359 DOS.mp4
+-a----         12/1/2019   5:32 PM        1493703 DOSBox0.74-3-win32-installer (1).exe
+-a----         12/1/2019  12:50 PM        1493703 DOSBox0.74-3-win32-installer.exe
+-a----         12/1/2019   5:33 PM        1448809 DOSBox0.74-win32-installer.exe
+-a----          1/6/2021   7:54 PM        1821241 dota2Dataset.zip
+-a----         8/15/2016   1:15 PM        2485646 dota2Test.csv
+-a----         8/15/2016   1:15 PM       22372518 dota2Train.csv
+-a----         1/27/2021   7:52 PM         932707 Draft Soal UAS Sistem Terdistribusi 2020-2021.pdf
+-a----        11/19/2019   9:16 AM           7380 dreamhome.sql
+-a----          8/1/2020  12:46 PM       25840176 driver_booster_setup.exe
+-a----         1/24/2021   1:47 AM          24875 dyo haw.jpg
+-a----         3/27/2021   3:05 PM           1087 D_1800016052_Laa Tania Fisabillah.py
+-a----         3/27/2021   2:58 PM            554 D_1800016052_Laa Tania Fisabillah.rar
+-a----        12/13/2019  10:55 AM        4965918 essence.zip
+-a----         1/20/2021   7:53 AM          16597 Evaluasi.docx
+-a----        12/13/2019  11:01 AM       11316097 fashe-colorlib.zip
+-a----         4/25/2020  11:20 AM        1024240 filmora-idco_setup_full1901.exe
+-a----        10/24/2019   8:32 AM       51516392 Firefox Setup 70.0.exe
+-a----          7/9/2020   3:25 PM          10134 folderjson.rar
+-a----         7/11/2020   7:30 PM           1637 Formulir tanpa judul.csv.zip
+-a----          7/9/2020  10:35 PM         933006 framework-4.0.3.zip
+-a----          8/1/2020   3:06 PM          23362 freehep-graphicsio-svg-2.0.jar
+-a----         6/26/2020   1:53 PM          52498 FUNGSI HASH2.docx
+-a----        10/27/2020   8:36 PM          31922 Fuzzy C-Mean - 1800016024
+-a----         4/21/2020   9:37 PM          88214 gambar.jpg
+-a----         3/28/2020   4:41 PM       46669192 Git-2.26.0-64-bit.exe
+-a----          8/1/2020  11:51 AM        1564864 GLP_Installer_900207229_market.exe
+-a----        12/21/2019   8:39 PM        5788674 go green.rar
+-a----        10/24/2019   8:36 AM       26198624 GOMPLAYERGLOBALSETUP.exe
+-a----         3/15/2021  10:40 AM        7391632 GPU-Z.2.38.0.exe
+-a----        12/21/2019   8:36 PM        5621178 greenfair-html5-onepage-template-20191221T133400Z-001.zip
+-a----        12/19/2020  11:51 AM      238020814 Greenfoot-windows-361.msi
+-a----         12/1/2019   1:49 PM        7451648 GUI Turbo Assembler v3.0.1 (1).msi
+-a----         12/1/2019   1:24 PM        7451648 GUI Turbo Assembler v3.0.1.msi
+-a----          8/1/2020   3:06 PM          45024 hamcrest-core-1.3.jar
+-a----         4/15/2020   2:49 PM          15991 HASIL-PREDICTION-TEST-MAHASISWA-BARU-UNIVERSITAS-AHMAD-DAHLAN-2019.xl
+                                                  sx
+-a----        11/22/2019  11:12 PM        2572742 heppy.docx
+-a----        10/29/2020   8:46 PM      783214488 ibm-spss-statistics-base-22-0-es-en-br-fr-de-it-cn-jp-ru-pl-kr-win.ex
+                                                  e
+-a----         4/21/2020  12:53 PM          34280 icon.jpg
+-a----          6/2/2020   3:48 PM          34776 ig.png
+-a----        11/23/2019   1:01 AM         368315 ijazah dan akreditasi_reduce (1).pdf
+-a----        11/23/2019   1:00 AM        1007017 ijazah dan akreditasi_reduce.pdf
+-a----        12/20/2020  11:01 PM         596744 ikon.png
+-a----         4/13/2020   1:36 PM           1336 images.jpg
+-a----         1/17/2020   6:13 PM           9661 images.png
+-a----         3/23/2020   2:04 PM          92407 IMAM.docx
+-a----          7/5/2020   9:42 AM          23900 IMG-20200705-WA0007.jpg
+-a----          7/8/2020   5:20 PM        3015657 IMG_20191127_204802.jpg
+-a----        11/28/2019   9:19 PM        3713647 IMG_20191127_204813.jpg
+-a----         7/27/2020  11:30 PM        5101160 IMG_20200727_230342.jpg
+-a----         2/23/2021   1:54 AM         939565 IMG_2959-01-01-01.jpeg
+-a----          7/8/2020   5:31 PM        4993768 IMG_9041.JPG
+-a----         1/17/2020   6:10 PM           8153 index.jpg
+-a----          6/2/2020   4:41 PM           5852 index.png
+-a----         8/15/2020   3:16 PM          14344 Indriana Luqul Jannah_1800016066_Tugas 11_pertemuan 12.docx
+-a----         3/15/2021  12:30 AM       68746984 Install VALORANT.exe
+-a----        10/25/2013   3:34 PM       64263337 iReport-5.5.0.nbm
+-a----         1/15/2020  10:40 PM        1758828 JARKOM.docx
+-a----        12/14/2019  10:09 PM         764202 jarkom10.docx
+-a----        10/25/2013   3:34 PM        2104798 jasperreports-components-plugin-5.5.0.nbm
+-a----        10/25/2013   3:34 PM        2921831 jasperserver-plugin-5.5.0.nbm
+-a----          8/1/2020   3:06 PM         330246 jcommon-1.0.23.jar
+-a----          8/1/2020   3:07 PM        1565065 jfreechart-1.0.19.jar
+-a----          8/1/2020   3:06 PM          12377 jfreechart-1.0.9-experimental.jar
+-a----          8/1/2020   3:06 PM          73010 jfreechart-swt-1.0.9.jar
+-a----          8/1/2020   3:07 PM          50780 jfreesvg-2.1.jar
+-a----          7/6/2020   3:27 PM          32668 Jointabel.docx
+-a----          7/6/2020   2:13 PM       15382938 JoinTabel.mp4
+-a----          6/2/2020   2:00 PM         105048 jongyeon.jpg
+-a----          8/1/2020   3:06 PM          16046 json-simple-1.1.jar
+-a----          7/2/2020   1:17 PM        1797361 JSON01.pdf
+-a----          8/1/2020   3:06 PM         245039 junit-4.11.jar
+-a----          6/4/2020   2:29 PM         134406 jwban heheee.jpg
+-a----        10/21/2020   9:27 PM          93243 kauman-Jogjabike-2-scaled.jpg
+-a----        10/21/2020  10:34 PM         190623 kauman.jpg
+-a----         1/20/2021   7:20 AM          62270 kelompok.docx
+-a----         1/31/2021   9:15 AM         153732 kkn reguler(1).png
+-a----         1/31/2021   9:18 AM         150006 kkn reguler(2).png
+-a----         1/31/2021   9:12 AM         153569 kkn reguler.png
+-a----         6/19/2020   8:22 AM         312985 KODE AGREGASI.pdf
+-a----          7/3/2020   8:59 AM         754447 KodeGearMuter.pdf
+-a----         7/10/2020   1:42 PM         465936 KodeJsonHtmlJava.pdf
+-a----         7/28/2020  10:33 AM         483466 KodeSoalSBO2020.pdf
+-a----         6/15/2020   2:15 PM         378610 KodetambahdataChart.pdf
+-a----         6/26/2020   1:53 PM        1336504 KodingHash2.pdf
+-a----         1/27/2021   9:08 AM          10008 KRIPTOGRAFI.xlsx
+-a----         1/15/2020  10:39 PM         460206 kriptografinj.docx
+-a----        11/23/2019  12:29 AM         151411 ktp 1.jpg
+-a----         1/29/2021   4:23 AM         111084 kuliah kerja nyata(1).png
+-a----         1/31/2021   8:57 AM         110579 kuliah kerja nyata(2).png
+-a----         1/29/2021   4:22 AM         169570 kuliah kerja nyata.pdf
+-a----         1/29/2021   4:19 AM         111084 kuliah kerja nyata.png
+-a----         12/8/2019  11:51 PM         497288 L10_Network Security.pptx
+-a----         1/23/2021  11:22 PM          21477 lady-gaga-c.jpg
+-a----          8/6/2020   6:16 PM        3925307 LAGUF1.MOBI - twenty one pilots - Ride.mp3
+-a----        11/28/2019  10:06 PM        4467971 LAPORAN 07.docx
+-a----         2/26/2021  12:51 PM        1989354 LAPORAN PRAKTIKUM 6.docx
+-a----         12/6/2019   9:50 PM        2633445 LAPORAN PRAKTIKUM 9.docx
+-a----         1/16/2021  12:11 AM         475105 Lembar Formulir Dispensasi Pembayaran UAS Gasal 2020-2021.pdf
+-a----         1/17/2020   6:16 PM         959643 Liverpool-FC-HD-Logo.png
+-a----         1/15/2020  10:42 PM          24292 M3OG 2020.docx
+-a----         9/14/2020  11:42 AM         353676 Macam-macam kepribadian manusia.pptx
+-a----         7/11/2020   9:50 AM         277009 MAKALAH islam interdispliner.docx
+-a----         1/27/2021  10:00 PM         259331 MAKALAH SQL DUMP belum jadi.docx
+-a----        12/15/2020   7:47 PM          63469 MAKALAH SQL DUMP.docx
+-a----        10/21/2020   8:54 PM         112603 Masjib-Gedhe-Kauman-Yogyakarta.jpg
+-a----        10/21/2020   8:23 PM         116343 masjid kauman.jpg
+-a----        10/21/2020  10:43 PM          72899 Masjid-Kauman-Jogja.jpg
+-a----          7/5/2020   8:54 AM          28513 Materi Islam Interdisipliner.docx
+-a----        10/21/2020   8:11 PM         194276 materi poster irma.pdf
+-a----          4/2/2020   8:21 AM          81872 Materi3.docx
+-a----         7/16/2020   8:21 AM         562884 Membuat dua thread sorting.pdf
+-a----         7/10/2020   8:17 AM          72531 Membuat thread tentang sorting.docx
+-a----         6/16/2020   1:23 PM         962472 MENAMPILKAN TABEL BASIS DATA.pdf
+-a----         6/26/2020   8:56 AM        1054063 MENGGAMBAR ORNAMEN2.pdf
+-a----         9/13/2020   1:09 PM         823877 menjadi pribadi yang mandiri-converted.pptx
+-a----         9/13/2020  12:33 PM         116495 menjadi pribadi yang mandiri.pdf
+-a----         9/13/2020  12:36 PM         626617 menjadi pribadi yang mandiri.pptx
+-a----         6/29/2020   1:14 PM         130819 MenuBasisData.docx
+-a----        11/15/2020   3:52 AM           9588 Merancang Kebutuhan Non Fungsional.docx
+-a----        11/15/2020   3:29 AM         190191 Merancang Kebutuhan Non Fungsional.pdf
+-a----         1/20/2021   8:34 AM          81914 Modul Praktikum Pelatihan Psikologis 13F4.docx
+-a----         10/5/2020  11:39 AM         187603 modul1.pdf
+-a----         7/27/2020   8:27 AM        6823297 Module-Firewalldkk.pdf
+-a----        10/21/2020  10:03 PM         123020 Monumen-Kauman-Pakualaman-Di-Depan-Bioskop-Permata-Yogyakarta.jpg
+-a----          7/9/2020   2:25 PM           3709 MultiThread.rar
+-a----         3/19/2021   1:29 PM          32042 NetBeansProjects.rar
+-a----         1/24/2021  12:24 AM         107798 noah.jpg
+-a----         3/18/2020  11:00 AM       19673088 node-v12.16.1-x64.msi
+-a----         4/13/2020  10:30 AM       19763200 node-v12.16.2-x64.msi
+-a----         3/18/2020  11:02 AM       29904896 node-v13.11.0-x64.msi
+-a----        12/21/2019   9:01 PM        3709392 npp.7.8.2.Installer.exe
+-a----         1/27/2021   8:26 AM         214817 OK SoalUAS_PTI2021Suprihatin.docx.pdf
+-a----         1/21/2021  12:22 PM         734815 OK UAS Data MIning Sistem Informasi 2021.pdf
+-a----          8/6/2020   4:25 PM       38381790 Olive-1e3cf53-Windows-x86_64.exe
+-a----         3/27/2020   8:09 AM         165183 OOP101_2020 (1).docx
+-a----         3/27/2020   8:08 AM         165183 OOP101_2020.docx
+-a----          8/1/2020   3:06 PM         452706 orsoncharts-1.7.jar
+-a----          8/1/2020   3:06 PM          70185 orsonpdf-1.9.jar
+-a----        11/22/2019   2:47 PM         910304 osgeo4w-setup-x86_64.exe
+-a----        11/29/2019   9:34 PM        9000000 output.tif
+-a----        11/29/2019   9:34 PM            502 output.tif.ers
+-a----         12/9/2019  12:06 AM          51502 p9 (7).pkt
+-a----         12/8/2019  10:36 PM        4011467 p9.docx
+-a----        12/14/2019   7:07 PM          56381 p9.pkt
+-a----          1/6/2021  10:09 PM         234524 pancake.jpg
+-a----         7/14/2020   1:14 PM         529803 PanggilReport.pdf
+-a----          8/8/2020  12:11 PM          18159 Panji Atmojo - 1800016024 - Tugas1.docx
+-a----          8/1/2020  10:39 AM           1987 Pasien.json
+-a----         7/15/2020   9:55 PM         129463 PB-UTS 2020.png
+-a----         6/16/2020   3:10 PM           3187 Pemvis2.rar
+-a----        11/22/2019   3:47 PM           8942 PERTEMUAN 6.zip
+-a----        11/26/2019   9:24 PM       25333585 PERTEMUAN 7.rar
+-a----          1/6/2021  10:08 PM          67764 pisang goreng.jpg
+-a----        10/21/2020  10:00 PM          15195 place-2012-12-27-3-9184b5bfdb05fb84d332a3d57c44c5eb.jpg
+-a----        11/29/2019  10:40 PM        2685704 PRAK6-1800016024.docx
+-a----        11/19/2019   9:18 PM        1695889 PRAK6-1800016066.docx
+-a----        11/24/2019   7:04 PM        2425839 PRAK7_1800016066.docx
+-a----        12/10/2019   7:10 PM        1752877 PRAK9_1800016066.docx
+-a----        11/24/2019   4:57 PM         355597 PRAKTIKUM07.docx
+-a----         6/19/2020   1:13 PM         713813 PraktikumPencarianBiner ArrayObject.pdf
+-a----        11/25/2019   6:13 PM           4422 praktikum_db1.sql
+-a----         3/23/2021   3:56 PM          43821 Praxis-magang-maret.pdf
+-a----        11/17/2019   7:38 PM          44378 project.pkt
+-a----         1/20/2021   7:40 AM         100540 PROPOSAL PENELITIAN.docx
+-a----         1/20/2021   5:56 AM         297710 PROPOSAL PENELITIAN.pdf
+-a----        11/18/2020   8:17 AM         216634 pti2020.docx
+-a----        11/18/2020   8:13 AM        1009268 pti2020.pdf
+-a----          1/6/2021  10:09 PM          61456 pudding.jpg
+-a----         4/13/2020   1:36 PM           2524 puma.jpg
+-a----         3/12/2021   5:41 PM          70170 putusan_17_pdt.g_2018_pn_yyk_20210312.pdf
+-a----         3/12/2021   5:33 PM          68057 putusan_17_pdt.p_2021_pn_yyk_20210312.pdf
+-a----         10/3/2020   2:25 PM       26777232 python-3.8.5.exe
+-a----        11/22/2019   3:34 PM      411187880 QGIS-OSGeo4W-2.18.28-1-Setup-x86_64.exe
+-a----         1/30/2021  11:06 PM           3151 QR code IG KKN.png
+-a----         3/15/2021  11:29 AM      464254392 radeon-software-adrenalin-2020-20.11.2-win10-64bit-nov18.exe
+-a----         1/21/2021   1:30 PM          14783 readMe.docx
+-a----          1/6/2021   9:48 PM          48837 red velvet.jpg
+-a----        11/30/2020   9:20 AM          40161 Regresi-1800016024.ipynb
+-a----         6/19/2020   8:08 AM         618214 RELASI AGREGASI.pdf
+-a----         6/18/2020   8:23 AM         888929 RELASIAPA.pdf
+-a----          7/2/2020   8:02 AM        1299776 RELASIKomposisi.pdf
+-a----        12/16/2019   4:25 PM          70991 Responsi-Kls-A-1800016057 (1).pkt
+-a----        12/16/2019   4:25 PM          70991 Responsi-Kls-A-1800016057 (2).pkt
+-a----        12/16/2019   4:25 PM          70991 Responsi-Kls-A-1800016057.pkt
+-a----        12/16/2019   4:43 PM          75415 Responsi-Kls-A-1800016066.pkt
+-a----        12/16/2019   4:53 PM          81794 Responsi.pkt
+-a----         3/19/2020  12:51 PM         405611 Resum APB bab1.docx
+-a----        11/14/2020  10:27 PM          11288 Revisi BPNM.docx
+-a----        11/14/2020  10:14 PM         203135 Revisi BPNM.pdf
+-a----        11/15/2020   1:11 AM          59418 Revisi Usecase Diagram(1).PNG
+-a----        11/15/2020   4:43 AM          59418 Revisi Usecase Diagram(2).PNG
+-a----        11/14/2020  11:02 PM          59418 Revisi Usecase Diagram.PNG
+-a----          1/6/2021   9:47 PM         136927 robusta.jpg
+-a----         7/28/2020   1:42 PM          18139 SBOUAS.rar
+-a----         7/28/2020   1:42 PM          20142 SBOUAS.zip
+-a----         12/8/2019  10:03 PM         177616 Screenshot_20191208-215130.png
+-a----         12/8/2019  10:04 PM         135591 Screenshot_20191208-215138.png
+-a----         1/27/2021   4:38 PM         829873 Screenshot_20210106-223005_Chrome(1).jpg
+-a----          1/6/2021  10:33 PM         829873 Screenshot_20210106-223005_Chrome.jpg
+-a----         1/27/2021   4:38 PM         231575 Screenshot_20210106-223011_Chrome(1).jpg
+-a----          1/6/2021  10:32 PM         231575 Screenshot_20210106-223011_Chrome.jpg
+-a----         1/27/2021   4:38 PM         488564 Screenshot_20210106-223019_Chrome(1).jpg
+-a----          1/6/2021  10:32 PM         488564 Screenshot_20210106-223019_Chrome.jpg
+-a----         1/27/2021   4:38 PM         930858 Screenshot_20210106-223026_Chrome(1).jpg
+-a----          1/6/2021  10:32 PM         930858 Screenshot_20210106-223026_Chrome.jpg
+-a----         1/21/2021   1:33 PM         233842 SEDM-Manual-Data1.csv
+-a----        11/24/2019   8:04 PM         293396 Sertifikat-Akreditasi-PGSD (wecompress.com).docx
+-a----        11/24/2019   7:54 PM        3058291 Sertifikat-Akreditasi-PGSD.docx
+-a----        11/24/2019   7:52 PM        1895203 Sertifikat-Akreditasi-PGSD.pdf
+-a----          8/1/2020   3:06 PM          76877 servlet.jar
+-a----         3/19/2021   9:07 PM         257865 Sesi 2 - Konsep Desain Jaringan(1).ppsx
+-a----         3/19/2021   9:05 PM         257865 Sesi 2 - Konsep Desain Jaringan.ppsx
+-a----         3/27/2021   5:35 PM          86864 Sesi 2 - NetAdmin.ppsx
+-a----         3/26/2021   2:17 PM         371220 Sesi 3 (2b) - Refresh Jaringan Konektivitas.pptx
+-a----         2/18/2021   9:17 AM         956829 sikantin-master (1).zip
+-a----        12/17/2020  10:35 AM         798948 sikantin-master.zip
+-a----        12/13/2019  10:18 AM        7112866 skytheme-ecommerce-html5-template.zip
+-a----         1/24/2021   1:23 AM          35433 slank.jpg
+-a----         1/17/2020   6:10 PM           8153 smi.jpg
+-a----         8/19/2020   8:06 AM         359936 SOAL UAS ANTARA ILMU DAKWAH 2019-2020.doc
+-a----        11/17/2020   8:22 PM         140588 SOAL UTS E BISNIS GASAL TA 20-21 Kelas AB - ANS .pdf
+-a----        11/16/2020   7:49 PM         130572 soal UTS Tata Kelola TI Gasal 20-21.pdf
+-a----         1/21/2021   1:35 PM          52798 Software Architecural Styles Dataset.csv
+-a----         1/24/2021  12:46 PM         160727 Software Requirement, Weiger.pdf
+-a----         1/21/2021  12:28 PM         702942 spambase.data
+-a----         8/17/1999  11:48 AM           6429 spambase.DOCUMENTATION
+-a----         1/21/2021  12:27 PM         125447 spambase.zip
+-a----          6/2/2020   2:09 PM         892232 SpotifySetup.exe
+-a----         6/29/2020   3:48 PM        9531304 SQLyog-13.1.6-0.x64Trial.exe
+-a----          7/1/2020  11:34 AM        1573568 SteamSetup.exe
+-a----        12/13/2019  10:26 AM       10931184 Sublime Text Build 3211 x64 Setup.exe
+-a----         1/27/2021   9:12 AM         126625 Suprihatin2000016555(1).pdf
+-a----         1/27/2021   9:07 AM         126625 Suprihatin2000016555.pdf
+-a----        11/23/2019  12:28 AM         166317 SURAT LAMARAN-1_compressed.pdf
+-a----        11/23/2019  12:30 AM         154503 SURAT PERNYATAAN.pdf
+-a----          6/4/2020  10:03 AM         294936 tema.jpg
+-a----         3/19/2020   1:35 PM         403413 terjemahan apb1.docx
+-a----          4/7/2020  10:02 AM       56304440 TinyTakeSetup_v_5_2_16.exe
+-a----        11/23/2019  12:38 AM        2227701 transkip 2_20191104_0001_page-0002.jpg
+-a----        11/23/2019  12:29 AM         266616 TRANSKIP NILAI FATIMAH_3 (1).pdf
+-a----        11/23/2019  12:28 AM         266616 TRANSKIP NILAI FATIMAH_3.pdf
+-a----        11/25/2019  10:13 PM         507682 transkip nilai wiwik .pdf
+-a----         4/19/2020  11:10 PM       21999384 tsetup.2.0.1.exe
+-a----         8/17/2020   9:09 AM          64285 TUGAS ASESMEN KEGIATAN DAKWAH.docx
+-a----         3/27/2020   2:38 PM          14898 tugas pak prih haha.zip
+-a----          3/9/2020   8:38 PM         125535 Tugas01.1800016066.docx
+-a----         12/1/2019   2:30 PM         537070 Tugas10-1800016066 (1).docx
+-a----         12/1/2019   6:03 PM         534028 Tugas10-1800016066 (2).docx
+-a----         12/1/2019   1:12 PM         534028 Tugas10-1800016066.docx
+-a----        12/15/2019   7:38 PM          19708 Tugas12-1800016066.docx
+-a----         12/8/2019  10:34 PM         877545 Tugas_11_1800016066.docx
+-a----         3/23/2020   2:17 PM         351494 Tugas_Dini180016045.docx
+-a----        12/13/2019   5:12 PM          74088 tumbasepatu.com_sobat kandas.pptx
+-a----          6/2/2020   1:59 PM        3214043 twice.jpg
+-a----         1/15/2020  10:39 PM          42894 uas jarkom.docx
+-a----         1/20/2021   7:31 AM          58738 UAS-MP20.docx
+-a----         7/28/2020   8:30 AM         967668 UASBO2020Susulan.pdf
+-a----         7/25/2020   2:40 PM          57838 UASpemvis.rar
+-a----         1/27/2021   5:33 PM          39532 UAS_A_E-Business_BimaRespatiKurniawan_1800016154(1).docx
+-a----         1/27/2021   7:31 AM          39532 UAS_A_E-Business_BimaRespatiKurniawan_1800016154.docx
+-a----         1/27/2021   7:37 AM          15408 UAS_ebusiness.docx
+-a----         1/27/2021   7:39 AM          68810 UAS_Ebusiness.pdf
+-a----         1/20/2021   8:36 AM          81924 UAS_Praktikum Pelatihan Psikologis_13F4.docx
+-a----         1/25/2021   9:18 PM          74975 UAS_TataKelolaTI.pdf
+-a----         1/27/2021   5:58 PM         470983 UAS_Technopreneurship(B)_Panji Atmojo_1800016024.docx
+-a----         1/25/2021  11:01 PM          18320 uas_TKTI.docx
+-a----          8/6/2020   5:37 PM        5378644 Unknown Brain - Why Do I (feat. Bri Tolani) (Lyrics Video).mp3
+-a----          7/6/2020   1:33 PM        3783120 Unlocker Downloader - JalanTikus_2195519217.exe
+-a----          7/6/2020   1:34 PM         346112 Unlocker64Bit_1.9.2_JalanTikus.msi
+-a----        11/15/2020   2:34 AM           1521 Untitled Diagram(1).drawio
+-a----        11/15/2020   1:51 AM           1609 Untitled Diagram.drawio
+-a----         4/25/2020  10:54 AM          50237 uts (1).rar
+-a----         4/22/2020  10:09 AM         603480 UTS APB Kelas C Genap 2020 - Sri Handayaningsih.pdf
+-a----         4/25/2020   9:54 AM          59991 uts.rar
+-a----         4/25/2020   8:44 AM          69278 UTSVisual2020PakPrih.docx
+-a----          7/9/2020   1:22 PM       19450605 VID-20200709-WA0011.mp4
+-a----         7/10/2020   1:10 PM       25356752 VID-20200710-WA0037.mp4
+-a----         7/13/2020   1:26 PM       21852777 VID-20200713-WA0007.mp4
+-a----         7/16/2020   1:21 PM       13397613 VID-20200716-WA0023.mp4
+-a----         7/17/2020   8:43 AM        4174285 VID-20200717-WA0001.mp4
+-a----         7/28/2020   8:30 AM        9254869 VID-20200728-WA0072.mp4
+-a----         10/5/2020  11:58 AM       14381608 VID-20201005-WA0031.mp4
+-a----         10/5/2020  11:57 AM        7027078 VID-20201005-WA0032(1).mp4
+-a----         10/5/2020  11:56 AM        7027078 VID-20201005-WA0032.mp4
+-a----         3/16/2020   7:45 PM       13311099 videoplayback.mp4
+-a----          4/1/2020   8:31 PM       58976784 VSCodeUserSetup-x64-1.43.2.exe
+-a----        12/21/2019   9:15 PM      204934765 website.rar
+-a----        11/17/2019  11:36 PM         219443 WhatsApp Image 2019-11-07 at 18.40.51.jpeg
+-a----        11/25/2019   9:59 PM         185195 WhatsApp Image 2019-11-25 at 21.58.23 (1).jpeg
+-a----        11/25/2019   9:59 PM         121951 WhatsApp Image 2019-11-25 at 21.58.23 (2).jpeg
+-a----        11/25/2019   9:59 PM         206186 WhatsApp Image 2019-11-25 at 21.58.23.jpeg
+-a----         1/17/2020   1:38 PM          83429 WhatsApp Image 2020-01-17 at 00.16.35.jpeg
+-a----         1/17/2020   1:20 PM          68461 WhatsApp Image 2020-01-17 at 00.16.36(1).jpeg
+-a----         1/17/2020   1:20 PM          83635 WhatsApp Image 2020-01-17 at 00.16.36(2).jpeg
+-a----         1/17/2020   2:58 PM          68461 WhatsApp Image 2020-01-17 at 00.16.36(3).jpeg
+-a----         1/17/2020   1:19 PM          83658 WhatsApp Image 2020-01-17 at 00.16.36.jpeg
+-a----         1/17/2020   5:50 PM          68643 WhatsApp Image 2020-01-17 at 17.37.18.jpeg
+-a----         1/17/2020   5:50 PM          54765 WhatsApp Image 2020-01-17 at 17.37.19.jpeg
+-a----         3/27/2020  10:08 AM         137665 WhatsApp Image 2020-03-27 at 08.51.36.jpeg
+-a----         3/27/2020   2:11 PM         184380 WhatsApp Image 2020-03-27 at 14.05.27.jpeg
+-a----         3/27/2020   2:21 PM          80912 WhatsApp Image 2020-03-27 at 14.17.13.jpeg
+-a----          4/2/2020   9:03 AM         109530 WhatsApp Image 2020-04-02 at 09.02.57.jpeg
+-a----          4/2/2020   9:26 AM         141923 WhatsApp Image 2020-04-02 at 09.25.09.jpeg
+-a----          4/2/2020   9:40 AM         131553 WhatsApp Image 2020-04-02 at 09.32.38.jpeg
+-a----          4/2/2020  10:18 AM          85519 WhatsApp Image 2020-04-02 at 10.14.06.jpeg
+-a----          4/3/2020   1:24 PM          71832 WhatsApp Image 2020-04-03 at 13.23.46.jpeg
+-a----         4/13/2020   3:28 PM         111350 WhatsApp Image 2020-04-13 at 14.59.40.jpeg
+-a----          5/2/2020  12:07 PM         112586 WhatsApp Image 2020-05-02 at 12.06.02(1).jpeg
+-a----          5/2/2020  12:07 PM         131185 WhatsApp Image 2020-05-02 at 12.06.02.jpeg
+-a----          6/5/2020   2:33 PM         216388 WhatsApp Image 2020-06-05 at 14.28.53.jpeg
+-a----         6/11/2020   9:02 AM          78148 WhatsApp Image 2020-06-11 at 08.53.21.jpeg
+-a----         6/13/2020   5:44 PM          57684 WhatsApp Image 2020-06-13 at 17.35.14(1).jpeg
+-a----         6/13/2020   5:44 PM          58996 WhatsApp Image 2020-06-13 at 17.35.14.jpeg
+-a----         6/13/2020   5:44 PM          50325 WhatsApp Image 2020-06-13 at 17.35.15(1).jpeg
+-a----         6/13/2020   5:44 PM          67191 WhatsApp Image 2020-06-13 at 17.35.15.jpeg
+-a----         6/22/2020   1:51 PM         108055 WhatsApp Image 2020-06-22 at 13.48.44.jpeg
+-a----         6/29/2020   3:29 PM         237068 WhatsApp Image 2020-06-29 at 15.25.56.jpeg
+-a----         6/30/2020   2:07 PM          52168 WhatsApp Image 2020-06-30 at 13.24.38.jpeg
+-a----          7/9/2020   8:54 AM         145170 WhatsApp Image 2020-07-09 at 08.50.07.jpeg
+-a----          7/9/2020   7:39 PM         160124 WhatsApp Image 2020-07-09 at 19.23.17.jpeg
+-a----         7/15/2020   8:52 PM         397581 WhatsApp Image 2020-07-15 at 20.46.45.jpeg
+-a----         7/15/2020   8:52 PM          90708 WhatsApp Image 2020-07-15 at 20.46.46 (1).jpeg
+-a----         7/15/2020   8:52 PM         336479 WhatsApp Image 2020-07-15 at 20.46.46.jpeg
+-a----         7/15/2020   8:53 PM         134245 WhatsApp Image 2020-07-15 at 20.46.47 (1).jpeg
+-a----         7/15/2020   8:52 PM         205278 WhatsApp Image 2020-07-15 at 20.46.47.jpeg
+-a----         7/21/2020   8:01 PM         112662 WhatsApp Image 2020-07-21 at 18.01.49.jpeg
+-a----         7/24/2020   9:12 AM          71712 WhatsApp Image 2020-07-23 at 11.20.36.jpeg
+-a----         10/5/2020   2:05 PM          44807 WhatsApp Image 2020-10-05 at 14.03.32.jpeg
+-a----         10/5/2020   2:14 PM          41244 WhatsApp Image 2020-10-05 at 14.04.19 (1).jpeg
+-a----         10/5/2020   2:13 PM          41244 WhatsApp Image 2020-10-05 at 14.04.19.jpeg
+-a----        10/19/2020  10:11 AM         186697 WhatsApp Image 2020-10-19 at 07.24.57.jpeg
+-a----        10/30/2020   9:50 AM          89436 WhatsApp Image 2020-10-30 at 09.38.18.jpeg
+-a----        11/18/2020  10:18 AM          89386 WhatsApp Image 2020-11-18 at 10.18.04.jpeg
+-a----        11/18/2020  10:18 AM          89525 WhatsApp Image 2020-11-18 at 10.18.05 (1).jpeg
+-a----        11/18/2020  10:18 AM          81024 WhatsApp Image 2020-11-18 at 10.18.05 (2).jpeg
+-a----        11/18/2020  10:18 AM          57115 WhatsApp Image 2020-11-18 at 10.18.05 (3).jpeg
+-a----        11/18/2020  10:18 AM          70914 WhatsApp Image 2020-11-18 at 10.18.05.jpeg
+-a----         1/27/2021   5:11 PM         125007 WhatsApp Image 2021-01-27 at 16.59.32.jpeg
+-a----         1/29/2021   2:03 AM          61265 WhatsApp Image 2021-01-29 at 02.03.02.jpeg
+-a----         1/29/2021   4:55 AM          41845 WhatsApp Image 2021-01-29 at 04.55.40.jpeg
+-a----         3/19/2021  11:12 PM         102338 WhatsApp Image 2021-03-19 at 23.08.46.jpeg
+-a----         3/26/2021   8:39 PM          37940 WhatsApp Image 2021-03-26 at 19.59.52.jpeg
+-a----         3/26/2021   8:39 PM          41542 WhatsApp Image 2021-03-26 at 20.00.15.jpeg
+-a----         3/26/2021   8:40 PM          21324 WhatsApp Image 2021-03-26 at 20.00.25.jpeg
+-a----          4/2/2020   3:23 PM        1492530 WhatsApp Video 2020-04-02 at 14.57.57.mp4
+-a----          4/3/2020  10:25 AM        3596148 WhatsApp Video 2020-04-03 at 08.57.56.mp4
+-a----          4/3/2020   1:47 PM        5114999 WhatsApp Video 2020-04-03 at 13.43.27.mp4
+-a----          4/7/2020  12:57 PM         931927 WhatsApp Video 2020-04-07 at 12.52.07.mp4
+-a----          5/2/2020  11:55 AM        6327152 WhatsApp Video 2020-05-02 at 11.54.25.mp4
+-a----         6/15/2020   1:36 PM         305611 WhatsApp Video 2020-06-15 at 13.32.41.mp4
+-a----         6/29/2020   1:14 PM         972240 WhatsApp Video 2020-06-29 at 13.12.42.mp4
+-a----         6/30/2020   1:14 PM         315344 WhatsApp Video 2020-06-30 at 12.59.50.mp4
+-a----          7/2/2020   1:17 PM         394042 WhatsApp Video 2020-07-02 at 13.07.58.mp4
+-a----          7/9/2020   8:44 AM         328778 WhatsApp Video 2020-07-09 at 08.37.15.mp4
+-a----          8/1/2020  10:54 AM        3785630 WhatsApp Video 2020-08-01 at 10.51.17.mp4
+-a----        12/19/2020  11:45 AM       38428280 WhatsApp Video 2020-12-19 at 09.54.02.mp4
+-a----          1/4/2021   4:48 AM       23748667 WhatsApp Video 2021-01-04 at 04.28.29.mp4
+-a----         9/22/2020  10:22 AM      162709936 WhatsAppSetup.exe
+-a----        10/24/2019   8:39 AM        3205768 winrar-x64-58b3.exe
+-a----         4/23/2018   3:19 AM        8771584 WinToolkit.exe
+-a----         7/10/2020   7:40 PM        3368448 xampp-control.exe
+-a----         7/10/2020  11:19 PM           1196 xampp-control.ini
+-a----         7/10/2020  11:19 PM           2047 xampp-control.log
+-a----        12/17/2019  10:43 PM      148216280 xampp-windows-x64-7.1.33-1-VC14-installer.exe
+-a----          6/2/2020   4:35 PM            979 zoom1.png
+-a----          4/2/2020   4:03 PM          78168 Zoom_414d3d1d4a30e911.exe
+-a----        12/19/2020   8:17 PM          83288 Zoom_cm_ds_mYg-Z4YFOC--ysUXbCs6K56uDctuIRvLXFCQ@qx9l6k4yMa+Q0jKh_k54d
+                                                  a330afe464761_.exe
+-a----          4/7/2020   9:04 AM          78168 Zoom_ee60260bf26bde0c.exe
+-a----          4/2/2020   8:15 PM          78168 Zoom_o42l8sofizku_4c7faae3dc154aa1 (1).exe
+-a----          4/2/2020   3:25 PM          78168 Zoom_o42l8sofizku_aadf43878319be3a.exe
+-a----        11/29/2019  10:46 PM      996497499 [AWSubs] Kimi no Na wa. [BD][1080p][7490FA6C].mkv
+-a----        11/29/2019   4:21 PM      534315970 [Yuki] Gekijouban Seishun Buta Yaro wa Yumemiru Shoujo no Yume wo
+                                                  Minai (WEB-DL 720p-AAC) [9C6D63C7].mkv
+
+
+PS C:\Users\HP\Downloads> whoami
+laptop-3t08jc2o\hp
+PS C:\Users\HP\Downloads> where
+
+cmdlet Where-Object at command pipeline position 1
+Supply values for the following parameters:
+Property: sc config
+PS C:\Users\HP\Downloads> sc config
+
+cmdlet Set-Content at command pipeline position 1
+Supply values for the following parameters:
+Value[0]: sc config
+Value[1]:
+PS C:\Users\HP\Downloads> sc config
+
+cmdlet Set-Content at command pipeline position 1
+Supply values for the following parameters:
+Value[0]:
+PS C:\Users\HP\Downloads>
+PS C:\Users\HP\Downloads> san
+san : The term 'san' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ san
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (san:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\HP\Downloads> spcinfo
+spcinfo : The term 'spcinfo' is not recognized as the name of a cmdlet, function, script file, or operable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ spcinfo
++ ~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (spcinfo:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\HP\Downloads> rpcinfo
+rpcinfo : The term 'rpcinfo' is not recognized as the name of a cmdlet, function, script file, or operable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ rpcinfo
++ ~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (rpcinfo:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\HP\Downloads> path
+path : The term 'path' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ path
++ ~~~~
+    + CategoryInfo          : ObjectNotFound: (path:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\HP\Downloads> netcfg
+PS C:\Users\HP\Downloads> netstat
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    127.0.0.1:51497        LAPTOP-3T08JC2O:51498  ESTABLISHED
+  TCP    127.0.0.1:51498        LAPTOP-3T08JC2O:51497  ESTABLISHED
+  TCP    127.0.0.1:53252        LAPTOP-3T08JC2O:53253  ESTABLISHED
+  TCP    127.0.0.1:53253        LAPTOP-3T08JC2O:53252  ESTABLISHED
+  TCP    127.0.0.1:53254        LAPTOP-3T08JC2O:53255  ESTABLISHED
+  TCP    127.0.0.1:53255        LAPTOP-3T08JC2O:53254  ESTABLISHED
+  TCP    127.0.0.1:53256        LAPTOP-3T08JC2O:53257  ESTABLISHED
+  TCP    127.0.0.1:53257        LAPTOP-3T08JC2O:53256  ESTABLISHED
+  TCP    127.0.0.1:53348        LAPTOP-3T08JC2O:53349  ESTABLISHED
+  TCP    127.0.0.1:53349        LAPTOP-3T08JC2O:53348  ESTABLISHED
+  TCP    127.0.0.1:53569        LAPTOP-3T08JC2O:53570  ESTABLISHED
+  TCP    127.0.0.1:53570        LAPTOP-3T08JC2O:53569  ESTABLISHED
+  TCP    127.0.0.1:53575        LAPTOP-3T08JC2O:53576  ESTABLISHED
+  TCP    127.0.0.1:53576        LAPTOP-3T08JC2O:53575  ESTABLISHED
+  TCP    127.0.0.1:53653        LAPTOP-3T08JC2O:53654  ESTABLISHED
+  TCP    127.0.0.1:53654        LAPTOP-3T08JC2O:53653  ESTABLISHED
+  TCP    127.0.0.1:54892        LAPTOP-3T08JC2O:54893  ESTABLISHED
+  TCP    127.0.0.1:54893        LAPTOP-3T08JC2O:54892  ESTABLISHED
+  TCP    127.0.0.1:54964        LAPTOP-3T08JC2O:54965  ESTABLISHED
+  TCP    127.0.0.1:54965        LAPTOP-3T08JC2O:54964  ESTABLISHED
+  TCP    127.0.0.1:55126        LAPTOP-3T08JC2O:55127  ESTABLISHED
+  TCP    127.0.0.1:55127        LAPTOP-3T08JC2O:55126  ESTABLISHED
+  TCP    127.0.0.1:55137        LAPTOP-3T08JC2O:55138  ESTABLISHED
+  TCP    127.0.0.1:55138        LAPTOP-3T08JC2O:55137  ESTABLISHED
+  TCP    192.168.1.106:50202    s3-us-west-2-r-w:https  CLOSE_WAIT
+  TCP    192.168.1.106:51614    203:https              ESTABLISHED
+  TCP    192.168.1.106:52465    a23-195-240-14:https   CLOSE_WAIT
+  TCP    192.168.1.106:53264    ec2-54-70-109-38:https  ESTABLISHED
+  TCP    192.168.1.106:54871    sc-in-f136:https       ESTABLISHED
+  TCP    192.168.1.106:54956    lb-140-82-113-26-iad:https  ESTABLISHED
+  TCP    192.168.1.106:55078    200:https              CLOSE_WAIT
+PS C:\Users\HP\Downloads> mklink
+mklink : The term 'mklink' is not recognized as the name of a cmdlet, function, script file, or operable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ mklink
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (mklink:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\HP\Downloads> ipxroute
+ipxroute : The term 'ipxroute' is not recognized as the name of a cmdlet, function, script file, or operable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ ipxroute
++ ~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (ipxroute:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\HP\Downloads> helppctr
+helppctr : The term 'helppctr' is not recognized as the name of a cmdlet, function, script file, or operable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ helppctr
++ ~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (helppctr:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\HP\Downloads> helpctr
+helpctr : The term 'helpctr' is not recognized as the name of a cmdlet, function, script file, or operable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ helpctr
++ ~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (helpctr:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\HP\Downloads> hostname
+LAPTOP-3T08JC2O
+PS C:\Users\HP\Downloads> gpt
+gpt : The term 'gpt' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ gpt
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (gpt:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\HP\Downloads> goto
+goto : The term 'goto' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ goto
++ ~~~~
+    + CategoryInfo          : ObjectNotFound: (goto:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\HP\Downloads> ftp status
+Unknown host status.
+ftp> ftp ls
+Invalid command.
+ftp> ftp> ls
+Not connected.
+ftp> ftp> ftp> ftp> ftp> ftp> ^X
+Invalid command.
+ftp> exit
+Invalid command.
+ftp>
+ftp>
+ftp>
+ftp> quit
+PS C:\Users\HP\Downloads> ftp status
+Unknown host status.
+ftp> quit
+PS C:\Users\HP\Downloads> chdir
+PS C:\Users\HP\Downloads> at
+The AT command has been deprecated. Please use schtasks.exe instead.
+
+The request is not supported.
+PS C:\Users\HP\Downloads> color
+color : The term 'color' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ color
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (color:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\HP\Downloads> cprofile
+cprofile : The term 'cprofile' is not recognized as the name of a cmdlet, function, script file, or operable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ cprofile
++ ~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (cprofile:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Users\HP\Downloads> cscript
+Microsoft (R) Windows Script Host Version 5.812
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Usage: CScript scriptname.extension [option...] [arguments...]
+
+Options:
+ //B         Batch mode: Suppresses script errors and prompts from displaying
+ //D         Enable Active Debugging
+ //E:engine  Use engine for executing script
+ //H:CScript Changes the default script host to CScript.exe
+ //H:WScript Changes the default script host to WScript.exe (default)
+ //I         Interactive mode (default, opposite of //B)
+ //Job:xxxx  Execute a WSF job
+ //Logo      Display logo (default)
+ //Nologo    Prevent logo display: No banner will be shown at execution time
+ //S         Save current command line options for this user
+ //T:nn      Time out in seconds:  Maximum time a script is permitted to run
+ //X         Execute script in debugger
+ //U         Use Unicode for redirected I/O from the console
+PS C:\Users\HP\Downloads>
